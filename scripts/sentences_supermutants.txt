@@ -1,0 +1,173 @@
+// SUPERMUTANTS
+SMUT_ALERTTOCOMBAT1 npc/supermutant/supermutant_alerttocombat01 {Len 0.94}
+SMUT_ALERTTOCOMBAT2 npc/supermutant/supermutant_alerttocombat02 {Len 1.24}
+SMUT_ALERTTOCOMBAT3 npc/supermutant/supermutant_alerttocombat03 {Len 0.9}
+SMUT_ALERTTOCOMBAT4 npc/supermutant/supermutant_alerttocombat04 {Len 1.2}
+SMUT_ALERTTOCOMBAT5 npc/supermutant/supermutant_alerttocombat05 {Len 0.6}
+
+SMUT_ALERTTONORMAL1 npc/supermutant/supermutant_alerttonormal01 {Len 2.31}
+SMUT_ALERTTONORMAL2 npc/supermutant/supermutant_alerttonormal02 {Len 3.01}
+SMUT_ALERTTONORMAL3 npc/supermutant/supermutant_alerttonormal03 {Len 3.38}
+SMUT_ALERTTONORMAL4 npc/supermutant/supermutant_alerttonormal04 {Len 3.19}
+SMUT_ALERTTONORMAL5 npc/supermutant/supermutant_alerttonormal05 {Len 3.15}
+
+SMUT_ATTACK1 npc/supermutant/supermutant_attack01 {Len 1.14}
+SMUT_ATTACK2 npc/supermutant/supermutant_attack02 {Len 1.14}
+SMUT_ATTACK3 npc/supermutant/supermutant_attack03 {Len 1.78}
+SMUT_ATTACK4 npc/supermutant/supermutant_attack04 {Len 1.04}
+SMUT_ATTACK5 npc/supermutant/supermutant_attack05 {Len 0.9}
+SMUT_ATTACK6 npc/supermutant/supermutant_attack06 {Len 1.38}
+SMUT_ATTACK7 npc/supermutant/supermutant_attack07 {Len 1.75}
+SMUT_ATTACK8 npc/supermutant/supermutant_attack08 {Len 1.14}
+SMUT_ATTACK9 npc/supermutant/supermutant_attack09 {Len 0.98}
+
+SMUT_AVOIDTHREAT1 npc/supermutant/supermutant_avoidthreat01 {Len 1.2}
+SMUT_AVOIDTHREAT2 npc/supermutant/supermutant_avoidthreat02 {Len 1.43}
+SMUT_AVOIDTHREAT3 npc/supermutant/supermutant_avoidthreat03 {Len 1.08}
+
+SMUT_COMBATTOLOST1 npc/supermutant/supermutant_combattolost01 {Len 2.09}
+SMUT_COMBATTOLOST2 npc/supermutant/supermutant_combattolost02 {Len 2.86}
+SMUT_COMBATTOLOST3 npc/supermutant/supermutant_combattolost03 {Len 2.69}
+
+SMUT_COMBATTONORMAL1 npc/supermutant/supermutant_combattonormal01 {Len 2.12}
+SMUT_COMBATTONORMAL2 npc/supermutant/supermutant_combattonormal02 {Len 1.72}
+SMUT_COMBATTONORMAL3 npc/supermutant/supermutant_combattonormal03 {Len 4.34}
+SMUT_COMBATTONORMAL4 npc/supermutant/supermutant_combattonormal04 {Len 3.09}
+
+SMUT_DEATH1 npc/supermutant/supermutant_death01 {Len 1.18}
+SMUT_DEATH2 npc/supermutant/supermutant_death02 {Len 1.37}
+SMUT_DEATH3 npc/supermutant/supermutant_death03 {Len 1.97}
+SMUT_DEATH4 npc/supermutant/supermutant_death04 {Len 2.11}
+SMUT_DEATH5 npc/supermutant/supermutant_death05 {Len 1.87}
+SMUT_DEATH6 npc/supermutant/supermutant_death06 {Len 2.1}
+SMUT_DEATH7 npc/supermutant/supermutant_death07 {Len 1.87}
+SMUT_DEATH8 npc/supermutant/supermutant_death08 {Len 1.45}
+SMUT_DEATH9 npc/supermutant/supermutant_death09 {Len 1.92}
+
+SMUT_DEATHRESPONSE1 npc/supermutant/supermutant_deathresponse01 {Len 1.94}
+SMUT_DEATHRESPONSE2 npc/supermutant/supermutant_deathresponse02 {Len 1.58}
+SMUT_DEATHRESPONSE3 npc/supermutant/supermutant_deathresponse03 {Len 1.77}
+
+SMUT_FIREEXPLOSIVE1 npc/supermutant/supermutant_fireexplosive01 {Len 1.72}
+SMUT_FIREEXPLOSIVE2 npc/supermutant/supermutant_fireexplosive02 {Len 1.75}
+SMUT_FIREEXPLOSIVE3 npc/supermutant/supermutant_fireexplosive03 {Len 2.07}
+
+SMUT_FLEE1 npc/supermutant/supermutant_flee01 {Len 3.11}
+SMUT_FLEE2 npc/supermutant/supermutant_flee02 {Len 1.57}
+SMUT_FLEE3 npc/supermutant/supermutant_flee03 {Len 1.13}
+SMUT_FLEE4 npc/supermutant/supermutant_flee04 {Len 1.77}
+
+SMUT_HIT1 npc/supermutant/supermutant_hit01 {Len 1.05}
+SMUT_HIT2 npc/supermutant/supermutant_hit02 {Len 0.73}
+SMUT_HIT3 npc/supermutant/supermutant_hit03 {Len 0.95}
+SMUT_HIT4 npc/supermutant/supermutant_hit04 {Len 0.86}
+SMUT_HIT5 npc/supermutant/supermutant_hit05 {Len 1.45}
+SMUT_HIT6 npc/supermutant/supermutant_hit06 {Len 1.39}
+SMUT_HIT7 npc/supermutant/supermutant_hit07 {Len 1.71}
+SMUT_HIT8 npc/supermutant/supermutant_hit08 {Len 1.09}
+SMUT_HIT9 npc/supermutant/supermutant_hit09 {Len 3.39}
+SMUT_HIT10 npc/supermutant/supermutant_hit10 {Len 0.9}
+SMUT_HIT11 npc/supermutant/supermutant_hit11 {Len 1.18}
+
+SMUT_LOSTIDLE1 npc/supermutant/supermutant_lostidle01 {Len 2.61}
+SMUT_LOSTIDLE2 npc/supermutant/supermutant_lostidle02 {Len 1.95}
+SMUT_LOSTIDLE3 npc/supermutant/supermutant_lostidle03 {Len 3.49}
+SMUT_LOSTIDLE4 npc/supermutant/supermutant_lostidle04 {Len 5.76}
+
+SMUT_LOSTTOCOMBAT1 npc/supermutant/supermutant_losttocombat01 {Len 1.29}
+SMUT_LOSTTOCOMBAT2 npc/supermutant/supermutant_losttocombat02 {Len 2.62}
+SMUT_LOSTTOCOMBAT3 npc/supermutant/supermutant_losttocombat03 {Len 2.52}
+
+SMUT_LOSTTONORMAL1 npc/supermutant/supermutant_losttonormal01 {Len 1.64}
+SMUT_LOSTTONORMAL2 npc/supermutant/supermutant_losttonormal02 {Len 2.6}
+SMUT_LOSTTONORMAL3 npc/supermutant/supermutant_losttonormal03 {Len 2.84}
+
+SMUT_NORMALTOALERT1 npc/supermutant/supermutant_normaltoalert01 {Len 1.78}
+SMUT_NORMALTOALERT2 npc/supermutant/supermutant_normaltoalert02 {Len 1.3}
+SMUT_NORMALTOALERT3 npc/supermutant/supermutant_normaltoalert03 {Len 2.28}
+SMUT_NORMALTOALERT4 npc/supermutant/supermutant_normaltoalert04 {Len 1.52}
+
+SMUT_NORMALTOALERTRESPONSE1 npc/supermutant/supermutant_normaltoalertre01 {Len 3.06}
+SMUT_NORMALTOALERTRESPONSE2 npc/supermutant/supermutant_normaltoalertre02 {Len 2.43}
+
+SMUT_NORMALTOCOMBAT1 npc/supermutant/supermutant_normaltocombat01 {Len 1.86}
+SMUT_NORMALTOCOMBAT2 npc/supermutant/supermutant_normaltocombat02 {Len 1.12}
+
+SMUT_POWERATTACK1 npc/supermutant/supermutant_powerattack01 {Len 1.16}
+SMUT_POWERATTACK2 npc/supermutant/supermutant_powerattack02 {Len 1.8}
+SMUT_POWERATTACK3 npc/supermutant/supermutant_powerattack03 {Len 1.7}
+SMUT_POWERATTACK4 npc/supermutant/supermutant_powerattack04 {Len 1.36}
+SMUT_POWERATTACK5 npc/supermutant/supermutant_powerattack05 {Len 1.99}
+
+// NIGHTKIN
+NKIN_ALERTIDLE1 npc/nightkin/nightkin_alertidle01 {Len 0.52}
+NKIN_ALERTIDLE2 npc/nightkin/nightkin_alertidle02 {Len 0.84}
+NKIN_ALERTIDLE3 npc/nightkin/nightkin_alertidle03 {Len 0.52}
+
+NKIN_ALERTTOCOMBAT1 npc/nightkin/nightkin_alerttocombat01 {Len 1.39}
+NKIN_ALERTTOCOMBAT2 npc/nightkin/nightkin_alerttocombat02 {Len 1.15}
+NKIN_ALERTTOCOMBAT3 npc/nightkin/nightkin_alerttocombat03 {Len 1.03}
+
+NKIN_ALERTTONORMAL1 npc/nightkin/nightkin_alerttonormal01 {Len 2.15}
+NKIN_ALERTTONORMAL2 npc/nightkin/nightkin_alerttonormal02 {Len 1.86}
+NKIN_ALERTTONORMAL3 npc/nightkin/nightkin_alerttonormal03 {Len 0.89}
+
+NKIN_ATTACK1 npc/nightkin/nightkin_attack01 {Len 0.66}
+NKIN_ATTACK2 npc/nightkin/nightkin_attack02 {Len 0.87}
+NKIN_ATTACK3 npc/nightkin/nightkin_attack03 {Len 0.99}
+
+NKIN_AVOIDTHREAT1 npc/nightkin/nightkin_avoidthreat01 {Len 0.59}
+NKIN_AVOIDTHREAT2 npc/nightkin/nightkin_avoidthreat02 {Len 0.6}
+
+NKIN_COMBATTOLOST1 npc/nightkin/nightkin_combattolost01 {Len 0.91}
+NKIN_COMBATTOLOST2 npc/nightkin/nightkin_combattolost02 {Len 1.01}
+NKIN_COMBATTOLOST3 npc/nightkin/nightkin_combattolost03 {Len 2.21}
+
+NKIN_COMBATTONORMAL1 npc/nightkin/nightkin_combattonormal01 {Len 5.97}
+NKIN_COMBATTONORMAL2 npc/nightkin/nightkin_combattonormal02 {Len 4.95}
+NKIN_COMBATTONORMAL3 npc/nightkin/nightkin_combattonormal03 {Len 1.5}
+
+NKIN_DEATH1 npc/nightkin/nightkin_death01 {Len 1.77}
+NKIN_DEATH2 npc/nightkin/nightkin_death02 {Len 2.41}
+NKIN_DEATH3 npc/nightkin/nightkin_death03 {Len 1.82}
+
+NKIN_DEATHRESPONSE1 npc/nightkin/nightkin_deathresponse01 {Len 1.11}
+NKIN_DEATHRESPONSE2 npc/nightkin/nightkin_deathresponse02 {Len 0.76}
+
+NKIN_FIREEXPLOSIVE1 npc/nightkin/nightkin_fireexplosive01 {Len 0.53}
+NKIN_FIREEXPLOSIVE2 npc/nightkin/nightkin_fireexplosive02 {Len 0.73}
+
+NKIN_FLEE1 npc/nightkin/nightkin_flee01 {Len 0.67}
+NKIN_FLEE2 npc/nightkin/nightkin_flee02 {Len 1.39}
+NKIN_FLEE3 npc/nightkin/nightkin_flee03 {Len 1.05}
+
+NKIN_HIT1 npc/nightkin/nightkin_hit01 {Len 0.74}
+NKIN_HIT2 npc/nightkin/nightkin_hit02 {Len 0.73}
+NKIN_HIT3 npc/nightkin/nightkin_hit03 {Len 0.8}
+NKIN_HIT4 npc/nightkin/nightkin_hit04 {Len 1.41}
+NKIN_HIT5 npc/nightkin/nightkin_hit05 {Len 1.16}
+NKIN_HIT6 npc/nightkin/nightkin_hit06 {Len 0.67}
+
+NKIN_LOSTIDLE1 npc/nightkin/nightkin_lostidle01 {Len 2.42}
+NKIN_LOSTIDLE2 npc/nightkin/nightkin_lostidle02 {Len 3.11}
+NKIN_LOSTIDLE3 npc/nightkin/nightkin_lostidle03 {Len 1.04}
+
+NKIN_LOSTTOCOMBAT1 npc/nightkin/nightkin_losttocombat01 {Len 0.9}
+NKIN_LOSTTOCOMBAT2 npc/nightkin/nightkin_losttocombat02 {Len 0.98}
+NKIN_LOSTTOCOMBAT3 npc/nightkin/nightkin_losttocombat03 {Len 1.13}
+
+NKIN_LOSTTONORMAL1 npc/nightkin/nightkin_losttonormal01 {Len 3.13}
+NKIN_LOSTTONORMAL2 npc/nightkin/nightkin_losttonormal02 {Len 2.45}
+NKIN_LOSTTONORMAL3 npc/nightkin/nightkin_losttonormal03 {Len 2.29}
+
+NKIN_NORMALTOALERT1 npc/nightkin/nightkin_normaltoalert01 {Len 0.61}
+NKIN_NORMALTOALERT2 npc/nightkin/nightkin_normaltoalert02 {Len 1.53}
+NKIN_NORMALTOALERT3 npc/nightkin/nightkin_normaltoalert03 {Len 0.58}
+
+NKIN_NORMALTOCOMBAT1 npc/nightkin/nightkin_normaltocombat01 {Len 1.1}
+NKIN_NORMALTOCOMBAT2 npc/nightkin/nightkin_normaltocombat02 {Len 1.03}
+NKIN_NORMALTOCOMBAT3 npc/nightkin/nightkin_normaltocombat03 {Len 0.93}
+
+NKIN_POWERATTACK1 npc/nightkin/nightkin_powerattack01 {Len 1.55}
+NKIN_POWERATTACK2 npc/nightkin/nightkin_powerattack02 {Len 1.3}
+NKIN_POWERATTACK3 npc/nightkin/nightkin_powerattack03 {Len 1.3}

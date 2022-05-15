@@ -1,0 +1,757 @@
+// BROTHERHOOD OF STEEL
+MA1_BOS_ALERTIDLE1 npc/human/maleadult01/b_alertidle01.wav
+MA1_BOS_ALERTIDLE2 npc/human/maleadult01/b_alertidle02.wav
+MA1_BOS_ALERTIDLE3 npc/human/maleadult01/b_alertidle03.wav
+MA1_BOS_ALERTIDLE4 npc/human/maleadult01/b_alertidle04.wav
+MA1_BOS_ALERTIDLE5 npc/human/maleadult01/b_alertidle05.wav
+MA1_BOS_ALERTIDLE6 npc/human/maleadult01/b_alertidle06.wav
+
+MA1_BOS_ALERTTOCOMBAT1 npc/human/maleadult01/b_alerttocombat01.wav
+MA1_BOS_ALERTTOCOMBAT2 npc/human/maleadult01/b_alerttocombat02.wav
+MA1_BOS_ALERTTOCOMBAT3 npc/human/maleadult01/b_alerttocombat03.wav
+MA1_BOS_ALERTTOCOMBAT4 npc/human/maleadult01/b_alerttocombat04.wav
+MA1_BOS_ALERTTOCOMBAT5 npc/human/maleadult01/b_alerttocombat05.wav
+
+MA1_BOS_ALERTTONORMAL1 npc/human/maleadult01/b_alerttonormal01.wav
+MA1_BOS_ALERTTONORMAL2 npc/human/maleadult01/b_alerttonormal02.wav
+MA1_BOS_ALERTTONORMAL3 npc/human/maleadult01/b_alerttonormal03.wav
+MA1_BOS_ALERTTONORMAL4 npc/human/maleadult01/b_alerttonormal04.wav
+MA1_BOS_ALERTTONORMAL5 npc/human/maleadult01/b_alerttonormal05.wav
+MA1_BOS_ALERTTONORMAL6 npc/human/maleadult01/b_alerttonormal06.wav
+
+MA1_BOS_ATTACK1 npc/human/maleadult01/b_attack01.wav
+MA1_BOS_ATTACK2 npc/human/maleadult01/b_attack02.wav
+MA1_BOS_ATTACK3 npc/human/maleadult01/b_attack03.wav
+MA1_BOS_ATTACK4 npc/human/maleadult01/b_attack04.wav
+MA1_BOS_ATTACK5 npc/human/maleadult01/b_attack05.wav
+MA1_BOS_ATTACK6 npc/human/maleadult01/b_attack06.wav
+MA1_BOS_ATTACK7 npc/human/maleadult01/b_attack07.wav
+MA1_BOS_ATTACK8 npc/human/maleadult01/b_attack08.wav
+MA1_BOS_ATTACK9 npc/human/maleadult01/b_attack09.wav
+MA1_BOS_ATTACK10 npc/human/maleadult01/b_attack10.wav
+MA1_BOS_ATTACK11 npc/human/maleadult01/b_attack11.wav
+
+MA1_BOS_AVOIDTHREAT1 npc/human/maleadult01/b_avoidthreat01.wav
+MA1_BOS_AVOIDTHREAT2 npc/human/maleadult01/b_avoidthreat02.wav
+MA1_BOS_AVOIDTHREAT3 npc/human/maleadult01/b_avoidthreat03.wav
+MA1_BOS_AVOIDTHREAT4 npc/human/maleadult01/b_avoidthreat04.wav
+
+MA1_BOS_AVOIDTHREADRESPONSE1 npc/human/maleadult01/b_avoidthreatresp01.wav
+MA1_BOS_AVOIDTHREADRESPONSE2 npc/human/maleadult01/b_avoidthreatresp02.wav
+
+MA1_BOS_COMBATIDLECHATTER1 npc/human/maleadult01/b_combatidlechatt01.wav
+
+MA1_BOS_COMBATTOLOST1 npc/human/maleadult01/b_combattolost01.wav
+MA1_BOS_COMBATTOLOST2 npc/human/maleadult01/b_combattolost02.wav
+MA1_BOS_COMBATTOLOST3 npc/human/maleadult01/b_combattolost03.wav
+MA1_BOS_COMBATTOLOST4 npc/human/maleadult01/b_combattolost04.wav
+MA1_BOS_COMBATTOLOST5 npc/human/maleadult01/b_combattolost05.wav
+MA1_BOS_COMBATTOLOST6 npc/human/maleadult01/b_combattolost06.wav
+
+MA1_BOS_COMBATTONORMAL1 npc/human/maleadult01/b_combattonormal01.wav
+MA1_BOS_COMBATTONORMAL2 npc/human/maleadult01/b_combattonormal02.wav
+MA1_BOS_COMBATTONORMAL3 npc/human/maleadult01/b_combattonormal03.wav
+MA1_BOS_COMBATTONORMAL4 npc/human/maleadult01/b_combattonormal04.wav
+MA1_BOS_COMBATTONORMAL5 npc/human/maleadult01/b_combattonormal05.wav
+MA1_BOS_COMBATTONORMAL6 npc/human/maleadult01/b_combattonormal06.wav
+
+MA1_BOS_DEATHRESPONSE1 npc/human/maleadult01/b_deathresponse01.wav
+MA1_BOS_DEATHRESPONSE2 npc/human/maleadult01/b_deathresponse02.wav
+MA1_BOS_DEATHRESPONSE3 npc/human/maleadult01/b_deathresponse03.wav
+MA1_BOS_DEATHRESPONSE4 npc/human/maleadult01/b_deathresponse04.wav
+
+MA1_BOS_FIREEXPLOSIVE1 npc/human/maleadult01/b_fireexplosive01.wav
+MA1_BOS_FIREEXPLOSIVE2 npc/human/maleadult01/b_fireexplosive02.wav
+MA1_BOS_FIREEXPLOSIVE3 npc/human/maleadult01/b_fireexplosive03.wav
+
+MA1_BOS_FLEE1 npc/human/maleadult01/b_flee01.wav
+MA1_BOS_FLEE2 npc/human/maleadult01/b_flee02.wav
+MA1_BOS_FLEE3 npc/human/maleadult01/b_flee03.wav
+
+MA1_BOS_HITHEAD1 npc/human/maleadult01/b_hit01.wav
+MA1_BOS_HITARM1 npc/human/maleadult01/b_hit02.wav
+MA1_BOS_HITLEG1 npc/human/maleadult01/b_hit03.wav
+MA1_BOS_HIT1 npc/human/maleadult01/b_hit04.wav
+MA1_BOS_HIT2 npc/human/maleadult01/b_hit05.wav
+MA1_BOS_HIT3 npc/human/maleadult01/b_hit06.wav
+MA1_BOS_HIT4 npc/human/maleadult01/b_hit07.wav
+
+MA1_BOS_LOSTIDLE1 npc/human/maleadult01/b_lostidle01.wav
+MA1_BOS_LOSTIDLE2 npc/human/maleadult01/b_lostidle02.wav
+MA1_BOS_LOSTIDLE3 npc/human/maleadult01/b_lostidle03.wav
+MA1_BOS_LOSTIDLE4 npc/human/maleadult01/b_lostidle04.wav
+MA1_BOS_LOSTIDLE5 npc/human/maleadult01/b_lostidle05.wav
+MA1_BOS_LOSTIDLE6 npc/human/maleadult01/b_lostidle06.wav
+
+MA1_BOS_LOSTTOCOMBAT1 npc/human/maleadult01/b_losttocombat01.wav
+MA1_BOS_LOSTTOCOMBAT2 npc/human/maleadult01/b_losttocombat02.wav
+MA1_BOS_LOSTTOCOMBAT3 npc/human/maleadult01/b_losttocombat03.wav
+MA1_BOS_LOSTTOCOMBAT4 npc/human/maleadult01/b_losttocombat04.wav
+MA1_BOS_LOSTTOCOMBAT5 npc/human/maleadult01/b_losttocombat05.wav
+
+MA1_BOS_LOSTTONORMAL1 npc/human/maleadult01/b_losttonormal01.wav
+MA1_BOS_LOSTTONORMAL2 npc/human/maleadult01/b_losttonormal02.wav
+MA1_BOS_LOSTTONORMAL3 npc/human/maleadult01/b_losttonormal03.wav
+MA1_BOS_LOSTTONORMAL4 npc/human/maleadult01/b_losttonormal04.wav
+MA1_BOS_LOSTTONORMAL5 npc/human/maleadult01/b_losttonormal05.wav
+
+MA1_BOS_NORMALTOALERT1 npc/human/maleadult01/b_normaltoalert01.wav
+MA1_BOS_NORMALTOALERT2 npc/human/maleadult01/b_normaltoalert02.wav
+MA1_BOS_NORMALTOALERT3 npc/human/maleadult01/b_normaltoalert03.wav
+MA1_BOS_NORMALTOALERT4 npc/human/maleadult01/b_normaltoalert04.wav
+MA1_BOS_NORMALTOALERT5 npc/human/maleadult01/b_normaltoalert05.wav
+
+MA1_BOS_NORMALTOCOMBAT1 npc/human/maleadult01/b_normaltocombat01.wav
+MA1_BOS_NORMALTOCOMBAT2 npc/human/maleadult01/b_normaltocombat02.wav
+MA1_BOS_NORMALTOCOMBAT3 npc/human/maleadult01/b_normaltocombat03.wav
+MA1_BOS_NORMALTOCOMBAT4 npc/human/maleadult01/b_normaltocombat04.wav
+
+MA1_BOS_STARTCOMBATRESPONSE1 npc/human/maleadult01/b_startcombatresp01.wav
+MA1_BOS_STARTCOMBATRESPONSE2 npc/human/maleadult01/b_startcombatresp02.wav
+MA1_BOS_STARTCOMBATRESPONSE3 npc/human/maleadult01/b_startcombatresp03.wav
+MA1_BOS_STARTCOMBATRESPONSE4 npc/human/maleadult01/b_startcombatresp04.wav
+MA1_BOS_STARTCOMBATRESPONSE5 npc/human/maleadult01/b_startcombatresp05.wav
+
+MA1_BOS_POWERATTACK1 npc/human/maleadult01/powerattack01.wav
+MA1_BOS_POWERATTACK2 npc/human/maleadult01/powerattack02.wav
+MA1_BOS_POWERATTACK3 npc/human/maleadult01/powerattack03.wav
+MA1_BOS_POWERATTACK4 npc/human/maleadult01/powerattack04.wav
+
+MA1_BOS_DEATH1 npc/human/maleadult01/death01.wav
+MA1_BOS_DEATH2 npc/human/maleadult01/death02.wav
+MA1_BOS_DEATH3 npc/human/maleadult01/death03.wav
+
+// MALE 2
+// BROTHERHOOD OF STEEL
+MA2_BOS_ALERTIDLE1 npc/human/maleadult02/b_alertidle01.wav
+MA2_BOS_ALERTIDLE2 npc/human/maleadult02/b_alertidle02.wav
+MA2_BOS_ALERTIDLE3 npc/human/maleadult02/b_alertidle03.wav
+MA2_BOS_ALERTIDLE4 npc/human/maleadult02/b_alertidle04.wav
+MA2_BOS_ALERTIDLE5 npc/human/maleadult02/b_alertidle05.wav
+MA2_BOS_ALERTIDLE6 npc/human/maleadult02/b_alertidle06.wav
+
+MA2_BOS_ALERTTOCOMBAT1 npc/human/maleadult02/b_alerttocombat01.wav
+MA2_BOS_ALERTTOCOMBAT2 npc/human/maleadult02/b_alerttocombat02.wav
+MA2_BOS_ALERTTOCOMBAT3 npc/human/maleadult02/b_alerttocombat03.wav
+MA2_BOS_ALERTTOCOMBAT4 npc/human/maleadult02/b_alerttocombat04.wav
+MA2_BOS_ALERTTOCOMBAT5 npc/human/maleadult02/b_alerttocombat05.wav
+
+MA2_BOS_ALERTTONORMAL1 npc/human/maleadult02/b_alerttonormal01.wav
+MA2_BOS_ALERTTONORMAL2 npc/human/maleadult02/b_alerttonormal02.wav
+MA2_BOS_ALERTTONORMAL3 npc/human/maleadult02/b_alerttonormal03.wav
+MA2_BOS_ALERTTONORMAL4 npc/human/maleadult02/b_alerttonormal04.wav
+MA2_BOS_ALERTTONORMAL5 npc/human/maleadult02/b_alerttonormal05.wav
+MA2_BOS_ALERTTONORMAL6 npc/human/maleadult02/b_alerttonormal06.wav
+
+MA2_BOS_ATTACK1 npc/human/maleadult02/b_attack01.wav
+MA2_BOS_ATTACK2 npc/human/maleadult02/b_attack02.wav
+MA2_BOS_ATTACK3 npc/human/maleadult02/b_attack03.wav
+MA2_BOS_ATTACK4 npc/human/maleadult02/b_attack04.wav
+MA2_BOS_ATTACK5 npc/human/maleadult02/b_attack05.wav
+MA2_BOS_ATTACK6 npc/human/maleadult02/b_attack06.wav
+MA2_BOS_ATTACK7 npc/human/maleadult02/b_attack07.wav
+MA2_BOS_ATTACK8 npc/human/maleadult02/b_attack08.wav
+MA2_BOS_ATTACK9 npc/human/maleadult02/b_attack09.wav
+MA2_BOS_ATTACK10 npc/human/maleadult02/b_attack10.wav
+MA2_BOS_ATTACK11 npc/human/maleadult02/b_attack11.wav
+
+MA2_BOS_ATTACKRESPONSE1 npc/human/maleadult02/b_attackresponse01.wav
+MA2_BOS_ATTACKRESPONSE2 npc/human/maleadult02/b_attackresponse02.wav
+
+MA2_BOS_AVOIDTHREAT1 npc/human/maleadult02/b_avoidthreat01.wav
+MA2_BOS_AVOIDTHREAT2 npc/human/maleadult02/b_avoidthreat02.wav
+MA2_BOS_AVOIDTHREAT3 npc/human/maleadult02/b_avoidthreat03.wav
+MA2_BOS_AVOIDTHREAT4 npc/human/maleadult02/b_avoidthreat04.wav
+
+MA2_BOS_AVOIDTHREATRESPONSE1 npc/human/maleadult02/b_avoidthreatresp01.wav
+MA2_BOS_AVOIDTHREATRESPONSE2 npc/human/maleadult02/b_avoidthreatresp02.wav
+
+MA2_BOS_COMBATIDLECHATTER1 npc/human/maleadult02/b_combatidlechatt01.wav
+
+MA2_BOS_COMBATTOLOST1 npc/human/maleadult02/b_combattolost01.wav
+MA2_BOS_COMBATTOLOST2 npc/human/maleadult02/b_combattolost02.wav
+MA2_BOS_COMBATTOLOST3 npc/human/maleadult02/b_combattolost03.wav
+MA2_BOS_COMBATTOLOST4 npc/human/maleadult02/b_combattolost04.wav
+MA2_BOS_COMBATTOLOST5 npc/human/maleadult02/b_combattolost05.wav
+MA2_BOS_COMBATTOLOST6 npc/human/maleadult02/b_combattolost06.wav
+
+MA2_BOS_COMBATTONORMAL1 npc/human/maleadult02/b_combattonormal01.wav
+MA2_BOS_COMBATTONORMAL2 npc/human/maleadult02/b_combattonormal02.wav
+MA2_BOS_COMBATTONORMAL3 npc/human/maleadult02/b_combattonormal03.wav
+MA2_BOS_COMBATTONORMAL4 npc/human/maleadult02/b_combattonormal04.wav
+MA2_BOS_COMBATTONORMAL5 npc/human/maleadult02/b_combattonormal05.wav
+MA2_BOS_COMBATTONORMAL6 npc/human/maleadult02/b_combattonormal06.wav
+
+MA2_BOS_DEATHRESPONSE1 npc/human/maleadult02/b_deathresponse01.wav
+MA2_BOS_DEATHRESPONSE2 npc/human/maleadult02/b_deathresponse02.wav
+MA2_BOS_DEATHRESPONSE3 npc/human/maleadult02/b_deathresponse03.wav
+MA2_BOS_DEATHRESPONSE4 npc/human/maleadult02/b_deathresponse04.wav
+
+MA2_BOS_FIREEXPLOSIVE1 npc/human/maleadult02/b_fireexplosive01.wav
+MA2_BOS_FIREEXPLOSIVE2 npc/human/maleadult02/b_fireexplosive02.wav
+MA2_BOS_FIREEXPLOSIVE3 npc/human/maleadult02/b_fireexplosive03.wav
+
+MA2_BOS_FLEE1 npc/human/maleadult02/b_flee01.wav
+MA2_BOS_FLEE2 npc/human/maleadult02/b_flee02.wav
+MA2_BOS_FLEE3 npc/human/maleadult02/b_flee03.wav
+
+MA2_BOS_HITHEAD1 npc/human/maleadult02/b_hit01.wav
+MA2_BOS_HITARM1 npc/human/maleadult02/b_hit02.wav
+MA2_BOS_HITLEG1 npc/human/maleadult02/b_hit03.wav
+MA2_BOS_HIT1 npc/human/maleadult02/b_hit04.wav
+MA2_BOS_HIT2 npc/human/maleadult02/b_hit05.wav
+MA2_BOS_HIT3 npc/human/maleadult02/b_hit06.wav
+MA2_BOS_HIT4 npc/human/maleadult02/b_hit07.wav
+
+MA2_BOS_LOSTIDLE1 npc/human/maleadult02/b_lostidle01.wav
+MA2_BOS_LOSTIDLE2 npc/human/maleadult02/b_lostidle02.wav
+MA2_BOS_LOSTIDLE3 npc/human/maleadult02/b_lostidle03.wav
+MA2_BOS_LOSTIDLE4 npc/human/maleadult02/b_lostidle04.wav
+MA2_BOS_LOSTIDLE5 npc/human/maleadult02/b_lostidle05.wav
+MA2_BOS_LOSTIDLE6 npc/human/maleadult02/b_lostidle06.wav
+
+MA2_BOS_LOSTTOCOMBAT1 npc/human/maleadult02/b_losttocombat01.wav
+MA2_BOS_LOSTTOCOMBAT2 npc/human/maleadult02/b_losttocombat02.wav
+MA2_BOS_LOSTTOCOMBAT3 npc/human/maleadult02/b_losttocombat03.wav
+MA2_BOS_LOSTTOCOMBAT4 npc/human/maleadult02/b_losttocombat04.wav
+MA2_BOS_LOSTTOCOMBAT5 npc/human/maleadult02/b_losttocombat05.wav
+
+MA2_BOS_LOSTTONORMAL1 npc/human/maleadult02/b_losttonormal01.wav
+MA2_BOS_LOSTTONORMAL2 npc/human/maleadult02/b_losttonormal02.wav
+MA2_BOS_LOSTTONORMAL3 npc/human/maleadult02/b_losttonormal03.wav
+MA2_BOS_LOSTTONORMAL4 npc/human/maleadult02/b_losttonormal04.wav
+MA2_BOS_LOSTTONORMAL5 npc/human/maleadult02/b_losttonormal05.wav
+
+MA2_BOS_NORMALTOALERT1 npc/human/maleadult02/b_normaltoalert01.wav
+MA2_BOS_NORMALTOALERT2 npc/human/maleadult02/b_normaltoalert02.wav
+MA2_BOS_NORMALTOALERT3 npc/human/maleadult02/b_normaltoalert03.wav
+MA2_BOS_NORMALTOALERT4 npc/human/maleadult02/b_normaltoalert04.wav
+MA2_BOS_NORMALTOALERT5 npc/human/maleadult02/b_normaltoalert05.wav
+
+MA2_BOS_NORMALTOCOMBAT1 npc/human/maleadult02/b_normaltocombat01.wav
+MA2_BOS_NORMALTOCOMBAT2 npc/human/maleadult02/b_normaltocombat02.wav
+MA2_BOS_NORMALTOCOMBAT3 npc/human/maleadult02/b_normaltocombat03.wav
+MA2_BOS_NORMALTOCOMBAT4 npc/human/maleadult02/b_normaltocombat04.wav
+
+MA2_BOS_STARTCOMBATRESPONSE1 npc/human/maleadult02/b_startcombatresp01.wav
+MA2_BOS_STARTCOMBATRESPONSE2 npc/human/maleadult02/b_startcombatresp02.wav
+MA2_BOS_STARTCOMBATRESPONSE3 npc/human/maleadult02/b_startcombatresp03.wav
+MA2_BOS_STARTCOMBATRESPONSE4 npc/human/maleadult02/b_startcombatresp04.wav
+MA2_BOS_STARTCOMBATRESPONSE5 npc/human/maleadult02/b_startcombatresp05.wav
+
+MA2_BOS_DEATH1 npc/human/maleadult02/death01.wav
+MA2_BOS_DEATH2 npc/human/maleadult02/death02.wav
+MA2_BOS_DEATH3 npc/human/maleadult02/death03.wav
+
+MA2_BOS_POWERATTACK1 npc/human/maleadult02/powerattack01.wav
+MA2_BOS_POWERATTACK2 npc/human/maleadult02/powerattack02.wav
+MA2_BOS_POWERATTACK3 npc/human/maleadult02/powerattack03.wav
+MA2_BOS_POWERATTACK4 npc/human/maleadult02/powerattack04.wav
+
+// MALE 8
+// BROTHERHOOD OF STEEL
+MA8_BOS_ALERTIDLE1 npc/human/maleadult02/b_alertidle01.wav
+MA8_BOS_ALERTIDLE2 npc/human/maleadult02/b_alertidle02.wav
+MA8_BOS_ALERTIDLE3 npc/human/maleadult02/b_alertidle03.wav
+MA8_BOS_ALERTIDLE4 npc/human/maleadult02/b_alertidle04.wav
+MA8_BOS_ALERTIDLE5 npc/human/maleadult02/b_alertidle05.wav
+MA8_BOS_ALERTIDLE6 npc/human/maleadult02/b_alertidle06.wav
+
+MA8_BOS_ALERTTOCOMBAT1 npc/human/maleadult02/b_alerttocombat01.wav
+MA8_BOS_ALERTTOCOMBAT2 npc/human/maleadult02/b_alerttocombat02.wav
+MA8_BOS_ALERTTOCOMBAT3 npc/human/maleadult02/b_alerttocombat03.wav
+MA8_BOS_ALERTTOCOMBAT4 npc/human/maleadult02/b_alerttocombat04.wav
+MA8_BOS_ALERTTOCOMBAT5 npc/human/maleadult02/b_alerttocombat05.wav
+
+MA8_BOS_ALERTTONORMAL1 npc/human/maleadult02/b_alerttonormal01.wav
+MA8_BOS_ALERTTONORMAL2 npc/human/maleadult02/b_alerttonormal02.wav
+MA8_BOS_ALERTTONORMAL3 npc/human/maleadult02/b_alerttonormal03.wav
+MA8_BOS_ALERTTONORMAL4 npc/human/maleadult02/b_alerttonormal04.wav
+MA8_BOS_ALERTTONORMAL5 npc/human/maleadult02/b_alerttonormal05.wav
+MA8_BOS_ALERTTONORMAL6 npc/human/maleadult02/b_alerttonormal06.wav
+
+MA8_BOS_ATTACK1 npc/human/maleadult02/b_attack01.wav
+MA8_BOS_ATTACK2 npc/human/maleadult02/b_attack02.wav
+MA8_BOS_ATTACK3 npc/human/maleadult02/b_attack03.wav
+MA8_BOS_ATTACK4 npc/human/maleadult02/b_attack04.wav
+MA8_BOS_ATTACK5 npc/human/maleadult02/b_attack05.wav
+MA8_BOS_ATTACK6 npc/human/maleadult02/b_attack06.wav
+MA8_BOS_ATTACK7 npc/human/maleadult02/b_attack07.wav
+MA8_BOS_ATTACK8 npc/human/maleadult02/b_attack08.wav
+MA8_BOS_ATTACK9 npc/human/maleadult02/b_attack09.wav
+MA8_BOS_ATTACK10 npc/human/maleadult02/b_attack10.wav
+MA8_BOS_ATTACK11 npc/human/maleadult02/b_attack11.wav
+
+MA8_BOS_ATTACKRESPONSE1 npc/human/maleadult02/b_attackresponse01.wav
+MA8_BOS_ATTACKRESPONSE2 npc/human/maleadult02/b_attackresponse02.wav
+
+MA8_BOS_AVOIDTHREAT1 npc/human/maleadult02/b_avoidthreat01.wav
+MA8_BOS_AVOIDTHREAT2 npc/human/maleadult02/b_avoidthreat02.wav
+MA8_BOS_AVOIDTHREAT3 npc/human/maleadult02/b_avoidthreat03.wav
+MA8_BOS_AVOIDTHREAT4 npc/human/maleadult02/b_avoidthreat04.wav
+
+MA8_BOS_AVOIDTHREATRESPONSE1 npc/human/maleadult02/b_avoidthreatresp01.wav
+MA8_BOS_AVOIDTHREATRESPONSE2 npc/human/maleadult02/b_avoidthreatresp02.wav
+
+MA8_BOS_COMBATIDLECHATTER1 npc/human/maleadult02/b_combatidlechatt01.wav
+
+MA8_BOS_COMBATTOLOST1 npc/human/maleadult02/b_combattolost01.wav
+MA8_BOS_COMBATTOLOST2 npc/human/maleadult02/b_combattolost02.wav
+MA8_BOS_COMBATTOLOST3 npc/human/maleadult02/b_combattolost03.wav
+MA8_BOS_COMBATTOLOST4 npc/human/maleadult02/b_combattolost04.wav
+MA8_BOS_COMBATTOLOST5 npc/human/maleadult02/b_combattolost05.wav
+MA8_BOS_COMBATTOLOST6 npc/human/maleadult02/b_combattolost06.wav
+
+MA8_BOS_COMBATTONORMAL1 npc/human/maleadult02/b_combattonormal01.wav
+MA8_BOS_COMBATTONORMAL2 npc/human/maleadult02/b_combattonormal02.wav
+MA8_BOS_COMBATTONORMAL3 npc/human/maleadult02/b_combattonormal03.wav
+MA8_BOS_COMBATTONORMAL4 npc/human/maleadult02/b_combattonormal04.wav
+MA8_BOS_COMBATTONORMAL5 npc/human/maleadult02/b_combattonormal05.wav
+MA8_BOS_COMBATTONORMAL6 npc/human/maleadult02/b_combattonormal06.wav
+
+MA8_BOS_DEATHRESPONSE1 npc/human/maleadult02/b_deathresponse01.wav
+MA8_BOS_DEATHRESPONSE2 npc/human/maleadult02/b_deathresponse02.wav
+MA8_BOS_DEATHRESPONSE3 npc/human/maleadult02/b_deathresponse03.wav
+MA8_BOS_DEATHRESPONSE4 npc/human/maleadult02/b_deathresponse04.wav
+
+MA8_BOS_FIREEXPLOSIVE1 npc/human/maleadult02/b_fireexplosive01.wav
+MA8_BOS_FIREEXPLOSIVE2 npc/human/maleadult02/b_fireexplosive02.wav
+MA8_BOS_FIREEXPLOSIVE3 npc/human/maleadult02/b_fireexplosive03.wav
+
+MA8_BOS_FLEE1 npc/human/maleadult02/b_flee01.wav
+MA8_BOS_FLEE2 npc/human/maleadult02/b_flee02.wav
+MA8_BOS_FLEE3 npc/human/maleadult02/b_flee03.wav
+
+MA8_BOS_HITHEAD1 npc/human/maleadult02/b_hit01.wav
+MA8_BOS_HITARM1 npc/human/maleadult02/b_hit02.wav
+MA8_BOS_HITLEG1 npc/human/maleadult02/b_hit03.wav
+MA8_BOS_HIT1 npc/human/maleadult02/b_hit04.wav
+MA8_BOS_HIT2 npc/human/maleadult02/b_hit05.wav
+MA8_BOS_HIT3 npc/human/maleadult02/b_hit06.wav
+MA8_BOS_HIT4 npc/human/maleadult02/b_hit07.wav
+
+MA8_BOS_LOSTIDLE1 npc/human/maleadult02/b_lostidle01.wav
+MA8_BOS_LOSTIDLE2 npc/human/maleadult02/b_lostidle02.wav
+MA8_BOS_LOSTIDLE3 npc/human/maleadult02/b_lostidle03.wav
+MA8_BOS_LOSTIDLE4 npc/human/maleadult02/b_lostidle04.wav
+MA8_BOS_LOSTIDLE5 npc/human/maleadult02/b_lostidle05.wav
+MA8_BOS_LOSTIDLE6 npc/human/maleadult02/b_lostidle06.wav
+
+MA8_BOS_LOSTTOCOMBAT1 npc/human/maleadult02/b_losttocombat01.wav
+MA8_BOS_LOSTTOCOMBAT2 npc/human/maleadult02/b_losttocombat02.wav
+MA8_BOS_LOSTTOCOMBAT3 npc/human/maleadult02/b_losttocombat03.wav
+MA8_BOS_LOSTTOCOMBAT4 npc/human/maleadult02/b_losttocombat04.wav
+MA8_BOS_LOSTTOCOMBAT5 npc/human/maleadult02/b_losttocombat05.wav
+
+MA8_BOS_LOSTTONORMAL1 npc/human/maleadult02/b_losttonormal01.wav
+MA8_BOS_LOSTTONORMAL2 npc/human/maleadult02/b_losttonormal02.wav
+MA8_BOS_LOSTTONORMAL3 npc/human/maleadult02/b_losttonormal03.wav
+MA8_BOS_LOSTTONORMAL4 npc/human/maleadult02/b_losttonormal04.wav
+MA8_BOS_LOSTTONORMAL5 npc/human/maleadult02/b_losttonormal05.wav
+
+MA8_BOS_NORMALTOALERT1 npc/human/maleadult02/b_normaltoalert01.wav
+MA8_BOS_NORMALTOALERT2 npc/human/maleadult02/b_normaltoalert02.wav
+MA8_BOS_NORMALTOALERT3 npc/human/maleadult02/b_normaltoalert03.wav
+MA8_BOS_NORMALTOALERT4 npc/human/maleadult02/b_normaltoalert04.wav
+MA8_BOS_NORMALTOALERT5 npc/human/maleadult02/b_normaltoalert05.wav
+
+MA8_BOS_NORMALTOCOMBAT1 npc/human/maleadult02/b_normaltocombat01.wav
+MA8_BOS_NORMALTOCOMBAT2 npc/human/maleadult02/b_normaltocombat02.wav
+MA8_BOS_NORMALTOCOMBAT3 npc/human/maleadult02/b_normaltocombat03.wav
+MA8_BOS_NORMALTOCOMBAT4 npc/human/maleadult02/b_normaltocombat04.wav
+
+MA8_BOS_STARTCOMBATRESPONSE1 npc/human/maleadult02/b_startcombatresp01.wav
+MA8_BOS_STARTCOMBATRESPONSE2 npc/human/maleadult02/b_startcombatresp02.wav
+MA8_BOS_STARTCOMBATRESPONSE3 npc/human/maleadult02/b_startcombatresp03.wav
+MA8_BOS_STARTCOMBATRESPONSE4 npc/human/maleadult02/b_startcombatresp04.wav
+MA8_BOS_STARTCOMBATRESPONSE5 npc/human/maleadult02/b_startcombatresp05.wav
+
+MA8_BOS_DEATH1 npc/human/maleadult02/death01.wav
+MA8_BOS_DEATH2 npc/human/maleadult02/death02.wav
+MA8_BOS_DEATH3 npc/human/maleadult02/death03.wav
+
+MA8_BOS_POWERATTACK1 npc/human/maleadult02/powerattack01.wav
+MA8_BOS_POWERATTACK2 npc/human/maleadult02/powerattack02.wav
+MA8_BOS_POWERATTACK3 npc/human/maleadult02/powerattack03.wav
+MA8_BOS_POWERATTACK4 npc/human/maleadult02/powerattack04.wav
+
+// FEMALE 1
+// BROTHERHOOD OF STEEL
+FA1_BOS_ALERTIDLE1 npc/human/femaleadult01/b_alertidle01.wav
+FA1_BOS_ALERTIDLE2 npc/human/femaleadult01/b_alertidle02.wav
+FA1_BOS_ALERTIDLE3 npc/human/femaleadult01/b_alertidle03.wav
+FA1_BOS_ALERTIDLE4 npc/human/femaleadult01/b_alertidle04.wav
+FA1_BOS_ALERTIDLE5 npc/human/femaleadult01/b_alertidle05.wav
+FA1_BOS_ALERTIDLE6 npc/human/femaleadult01/b_alertidle06.wav
+
+FA1_BOS_ALERTTOCOMBAT1 npc/human/femaleadult01/b_alerttocombat01.wav
+FA1_BOS_ALERTTOCOMBAT2 npc/human/femaleadult01/b_alerttocombat02.wav
+FA1_BOS_ALERTTOCOMBAT3 npc/human/femaleadult01/b_alerttocombat03.wav
+FA1_BOS_ALERTTOCOMBAT4 npc/human/femaleadult01/b_alerttocombat04.wav
+FA1_BOS_ALERTTOCOMBAT5 npc/human/femaleadult01/b_alerttocombat05.wav
+
+FA1_BOS_ALERTTONORMAL1 npc/human/femaleadult01/b_alerttonormal01.wav
+FA1_BOS_ALERTTONORMAL2 npc/human/femaleadult01/b_alerttonormal02.wav
+FA1_BOS_ALERTTONORMAL3 npc/human/femaleadult01/b_alerttonormal03.wav
+FA1_BOS_ALERTTONORMAL4 npc/human/femaleadult01/b_alerttonormal04.wav
+FA1_BOS_ALERTTONORMAL5 npc/human/femaleadult01/b_alerttonormal05.wav
+FA1_BOS_ALERTTONORMAL6 npc/human/femaleadult01/b_alerttonormal06.wav
+
+FA1_BOS_ATTACK1 npc/human/femaleadult01/b_attack01.wav
+FA1_BOS_ATTACK2 npc/human/femaleadult01/b_attack02.wav
+FA1_BOS_ATTACK3 npc/human/femaleadult01/b_attack03.wav
+FA1_BOS_ATTACK4 npc/human/femaleadult01/b_attack04.wav
+FA1_BOS_ATTACK5 npc/human/femaleadult01/b_attack05.wav
+FA1_BOS_ATTACK6 npc/human/femaleadult01/b_attack06.wav
+FA1_BOS_ATTACK7 npc/human/femaleadult01/b_attack07.wav
+FA1_BOS_ATTACK8 npc/human/femaleadult01/b_attack08.wav
+FA1_BOS_ATTACK9 npc/human/femaleadult01/b_attack09.wav
+FA1_BOS_ATTACK10 npc/human/femaleadult01/b_attack10.wav
+FA1_BOS_ATTACK11 npc/human/femaleadult01/b_attack11.wav
+
+FA1_BOS_ATTACKRESPONSE1 npc/human/femaleadult01/b_attackresponse01.wav
+FA1_BOS_ATTACKRESPONSE2 npc/human/femaleadult01/b_attackresponse02.wav
+
+FA1_BOS_AVOIDTHREAT1 npc/human/femaleadult01/b_avoidthreat01.wav
+FA1_BOS_AVOIDTHREAT2 npc/human/femaleadult01/b_avoidthreat02.wav
+FA1_BOS_AVOIDTHREAT3 npc/human/femaleadult01/b_avoidthreat03.wav
+FA1_BOS_AVOIDTHREAT4 npc/human/femaleadult01/b_avoidthreat04.wav
+
+FA1_BOS_AVOIDTHREATRESPONSE1 npc/human/femaleadult01/b_avoidthreatresp01.wav
+FA1_BOS_AVOIDTHREATRESPONSE2 npc/human/femaleadult01/b_avoidthreatresp02.wav
+
+FA1_BOS_COMBATIDLECHATTER1 npc/human/femaleadult01/b_combatidlechatt01.wav
+
+FA1_BOS_COMBATTOLOST1 npc/human/femaleadult01/b_combattolost01.wav
+FA1_BOS_COMBATTOLOST2 npc/human/femaleadult01/b_combattolost02.wav
+FA1_BOS_COMBATTOLOST3 npc/human/femaleadult01/b_combattolost03.wav
+FA1_BOS_COMBATTOLOST4 npc/human/femaleadult01/b_combattolost04.wav
+FA1_BOS_COMBATTOLOST5 npc/human/femaleadult01/b_combattolost05.wav
+FA1_BOS_COMBATTOLOST6 npc/human/femaleadult01/b_combattolost06.wav
+
+FA1_BOS_COMBATTONORMAL1 npc/human/femaleadult01/b_combattonormal01.wav
+FA1_BOS_COMBATTONORMAL2 npc/human/femaleadult01/b_combattonormal02.wav
+FA1_BOS_COMBATTONORMAL3 npc/human/femaleadult01/b_combattonormal03.wav
+FA1_BOS_COMBATTONORMAL4 npc/human/femaleadult01/b_combattonormal04.wav
+FA1_BOS_COMBATTONORMAL5 npc/human/femaleadult01/b_combattonormal05.wav
+FA1_BOS_COMBATTONORMAL6 npc/human/femaleadult01/b_combattonormal06.wav
+
+FA1_BOS_DEATHRESPONSE1 npc/human/femaleadult01/b_deathresponse01.wav
+FA1_BOS_DEATHRESPONSE2 npc/human/femaleadult01/b_deathresponse02.wav
+FA1_BOS_DEATHRESPONSE3 npc/human/femaleadult01/b_deathresponse03.wav
+FA1_BOS_DEATHRESPONSE4 npc/human/femaleadult01/b_deathresponse04.wav
+
+FA1_BOS_FIREEXPLOSIVE1 npc/human/femaleadult01/b_fireexplosive01.wav
+FA1_BOS_FIREEXPLOSIVE2 npc/human/femaleadult01/b_fireexplosive02.wav
+FA1_BOS_FIREEXPLOSIVE3 npc/human/femaleadult01/b_fireexplosive03.wav
+
+FA1_BOS_FLEE1 npc/human/femaleadult01/b_flee01.wav
+FA1_BOS_FLEE2 npc/human/femaleadult01/b_flee02.wav
+FA1_BOS_FLEE3 npc/human/femaleadult01/b_flee03.wav
+
+FA1_BOS_HITHEAD1 npc/human/femaleadult01/b_hit01.wav
+FA1_BOS_HITARM1 npc/human/femaleadult01/b_hit02.wav
+FA1_BOS_HITLEG1 npc/human/femaleadult01/b_hit03.wav
+FA1_BOS_HIT1 npc/human/femaleadult01/b_hit04.wav
+FA1_BOS_HIT2 npc/human/femaleadult01/b_hit05.wav
+FA1_BOS_HIT3 npc/human/femaleadult01/b_hit06.wav
+FA1_BOS_HIT4 npc/human/femaleadult01/b_hit07.wav
+
+FA1_BOS_LOSTIDLE1 npc/human/femaleadult01/b_lostidle01.wav
+FA1_BOS_LOSTIDLE2 npc/human/femaleadult01/b_lostidle02.wav
+FA1_BOS_LOSTIDLE3 npc/human/femaleadult01/b_lostidle03.wav
+FA1_BOS_LOSTIDLE4 npc/human/femaleadult01/b_lostidle04.wav
+FA1_BOS_LOSTIDLE5 npc/human/femaleadult01/b_lostidle05.wav
+FA1_BOS_LOSTIDLE6 npc/human/femaleadult01/b_lostidle06.wav
+
+FA1_BOS_LOSTTOCOMBAT1 npc/human/femaleadult01/b_losttocombat01.wav
+FA1_BOS_LOSTTOCOMBAT2 npc/human/femaleadult01/b_losttocombat02.wav
+FA1_BOS_LOSTTOCOMBAT3 npc/human/femaleadult01/b_losttocombat03.wav
+FA1_BOS_LOSTTOCOMBAT4 npc/human/femaleadult01/b_losttocombat04.wav
+FA1_BOS_LOSTTOCOMBAT5 npc/human/femaleadult01/b_losttocombat05.wav
+
+FA1_BOS_LOSTTONORMAL1 npc/human/femaleadult01/b_losttonormal01.wav
+FA1_BOS_LOSTTONORMAL2 npc/human/femaleadult01/b_losttonormal02.wav
+FA1_BOS_LOSTTONORMAL3 npc/human/femaleadult01/b_losttonormal03.wav
+FA1_BOS_LOSTTONORMAL4 npc/human/femaleadult01/b_losttonormal04.wav
+FA1_BOS_LOSTTONORMAL5 npc/human/femaleadult01/b_losttonormal05.wav
+
+FA1_BOS_NORMALTOALERT1 npc/human/femaleadult01/b_normaltoalert01.wav
+FA1_BOS_NORMALTOALERT2 npc/human/femaleadult01/b_normaltoalert02.wav
+FA1_BOS_NORMALTOALERT3 npc/human/femaleadult01/b_normaltoalert03.wav
+FA1_BOS_NORMALTOALERT4 npc/human/femaleadult01/b_normaltoalert04.wav
+FA1_BOS_NORMALTOALERT5 npc/human/femaleadult01/b_normaltoalert05.wav
+
+FA1_BOS_NORMALTOCOMBAT1 npc/human/femaleadult01/b_normaltocombat01.wav
+FA1_BOS_NORMALTOCOMBAT2 npc/human/femaleadult01/b_normaltocombat02.wav
+FA1_BOS_NORMALTOCOMBAT3 npc/human/femaleadult01/b_normaltocombat03.wav
+FA1_BOS_NORMALTOCOMBAT4 npc/human/femaleadult01/b_normaltocombat04.wav
+
+FA1_BOS_STARTCOMBATRESPONSE1 npc/human/femaleadult01/b_startcombatresp01.wav
+FA1_BOS_STARTCOMBATRESPONSE2 npc/human/femaleadult01/b_startcombatresp02.wav
+FA1_BOS_STARTCOMBATRESPONSE3 npc/human/femaleadult01/b_startcombatresp03.wav
+FA1_BOS_STARTCOMBATRESPONSE4 npc/human/femaleadult01/b_startcombatresp04.wav
+FA1_BOS_STARTCOMBATRESPONSE5 npc/human/femaleadult01/b_startcombatresp05.wav
+
+FA1_BOS_DEATH1 npc/human/femaleadult01/death01.wav
+FA1_BOS_DEATH2 npc/human/femaleadult01/death02.wav
+FA1_BOS_DEATH3 npc/human/femaleadult01/death03.wav
+
+FA1_BOS_POWERATTACK1 npc/human/femaleadult01/powerattack01.wav
+FA1_BOS_POWERATTACK2 npc/human/femaleadult01/powerattack02.wav
+FA1_BOS_POWERATTACK3 npc/human/femaleadult01/powerattack03.wav
+FA1_BOS_POWERATTACK4 npc/human/femaleadult01/powerattack04.wav
+
+// FEMALE 6
+// BROTHERHOOD OF STEEL
+FA6_BOS_ALERTIDLE1 npc/human/femaleadult06/b_alertidle01.wav
+FA6_BOS_ALERTIDLE2 npc/human/femaleadult06/b_alertidle02.wav
+FA6_BOS_ALERTIDLE3 npc/human/femaleadult06/b_alertidle03.wav
+FA6_BOS_ALERTIDLE4 npc/human/femaleadult06/b_alertidle04.wav
+FA6_BOS_ALERTIDLE5 npc/human/femaleadult06/b_alertidle05.wav
+FA6_BOS_ALERTIDLE6 npc/human/femaleadult06/b_alertidle06.wav
+
+FA6_BOS_ALERTTOCOMBAT1 npc/human/femaleadult06/b_alerttocombat01.wav
+FA6_BOS_ALERTTOCOMBAT2 npc/human/femaleadult06/b_alerttocombat02.wav
+FA6_BOS_ALERTTOCOMBAT3 npc/human/femaleadult06/b_alerttocombat03.wav
+FA6_BOS_ALERTTOCOMBAT4 npc/human/femaleadult06/b_alerttocombat04.wav
+FA6_BOS_ALERTTOCOMBAT5 npc/human/femaleadult06/b_alerttocombat05.wav
+
+FA6_BOS_ALERTTONORMAL1 npc/human/femaleadult06/b_alerttonormal01.wav
+FA6_BOS_ALERTTONORMAL2 npc/human/femaleadult06/b_alerttonormal02.wav
+FA6_BOS_ALERTTONORMAL3 npc/human/femaleadult06/b_alerttonormal03.wav
+FA6_BOS_ALERTTONORMAL4 npc/human/femaleadult06/b_alerttonormal04.wav
+FA6_BOS_ALERTTONORMAL5 npc/human/femaleadult06/b_alerttonormal05.wav
+FA6_BOS_ALERTTONORMAL6 npc/human/femaleadult06/b_alerttonormal06.wav
+
+FA6_BOS_ATTACK1 npc/human/femaleadult06/b_attack01.wav
+FA6_BOS_ATTACK2 npc/human/femaleadult06/b_attack02.wav
+FA6_BOS_ATTACK3 npc/human/femaleadult06/b_attack03.wav
+FA6_BOS_ATTACK4 npc/human/femaleadult06/b_attack04.wav
+FA6_BOS_ATTACK5 npc/human/femaleadult06/b_attack05.wav
+FA6_BOS_ATTACK6 npc/human/femaleadult06/b_attack06.wav
+FA6_BOS_ATTACK7 npc/human/femaleadult06/b_attack07.wav
+FA6_BOS_ATTACK8 npc/human/femaleadult06/b_attack08.wav
+FA6_BOS_ATTACK9 npc/human/femaleadult06/b_attack09.wav
+FA6_BOS_ATTACK10 npc/human/femaleadult06/b_attack10.wav
+FA6_BOS_ATTACK11 npc/human/femaleadult06/b_attack11.wav
+
+FA6_BOS_ATTACKRESPONSE1 npc/human/femaleadult06/b_attackresponse01.wav
+FA6_BOS_ATTACKRESPONSE2 npc/human/femaleadult06/b_attackresponse02.wav
+
+FA6_BOS_AVOIDTHREAT1 npc/human/femaleadult06/b_avoidthreat01.wav
+FA6_BOS_AVOIDTHREAT2 npc/human/femaleadult06/b_avoidthreat02.wav
+FA6_BOS_AVOIDTHREAT3 npc/human/femaleadult06/b_avoidthreat03.wav
+FA6_BOS_AVOIDTHREAT4 npc/human/femaleadult06/b_avoidthreat04.wav
+
+FA6_BOS_AVOIDTHREATRESPONSE1 npc/human/femaleadult06/b_avoidthreatresp01.wav
+FA6_BOS_AVOIDTHREATRESPONSE2 npc/human/femaleadult06/b_avoidthreatresp02.wav
+
+FA6_BOS_COMBATIDLECHATTER1 npc/human/femaleadult06/b_combatidlechatt01.wav
+
+FA6_BOS_COMBATTOLOST1 npc/human/femaleadult06/b_combattolost01.wav
+FA6_BOS_COMBATTOLOST2 npc/human/femaleadult06/b_combattolost02.wav
+FA6_BOS_COMBATTOLOST3 npc/human/femaleadult06/b_combattolost03.wav
+FA6_BOS_COMBATTOLOST4 npc/human/femaleadult06/b_combattolost04.wav
+FA6_BOS_COMBATTOLOST5 npc/human/femaleadult06/b_combattolost05.wav
+FA6_BOS_COMBATTOLOST6 npc/human/femaleadult06/b_combattolost06.wav
+
+FA6_BOS_COMBATTONORMAL1 npc/human/femaleadult06/b_combattonormal01.wav
+FA6_BOS_COMBATTONORMAL2 npc/human/femaleadult06/b_combattonormal02.wav
+FA6_BOS_COMBATTONORMAL3 npc/human/femaleadult06/b_combattonormal03.wav
+FA6_BOS_COMBATTONORMAL4 npc/human/femaleadult06/b_combattonormal04.wav
+FA6_BOS_COMBATTONORMAL5 npc/human/femaleadult06/b_combattonormal05.wav
+FA6_BOS_COMBATTONORMAL6 npc/human/femaleadult06/b_combattonormal06.wav
+
+FA6_BOS_DEATHRESPONSE1 npc/human/femaleadult06/b_deathresponse01.wav
+FA6_BOS_DEATHRESPONSE2 npc/human/femaleadult06/b_deathresponse02.wav
+FA6_BOS_DEATHRESPONSE3 npc/human/femaleadult06/b_deathresponse03.wav
+FA6_BOS_DEATHRESPONSE4 npc/human/femaleadult06/b_deathresponse04.wav
+
+FA6_BOS_FIREEXPLOSIVE1 npc/human/femaleadult06/b_fireexplosive01.wav
+FA6_BOS_FIREEXPLOSIVE2 npc/human/femaleadult06/b_fireexplosive02.wav
+FA6_BOS_FIREEXPLOSIVE3 npc/human/femaleadult06/b_fireexplosive03.wav
+
+FA6_BOS_FLEE1 npc/human/femaleadult06/b_flee01.wav
+FA6_BOS_FLEE2 npc/human/femaleadult06/b_flee02.wav
+FA6_BOS_FLEE3 npc/human/femaleadult06/b_flee03.wav
+
+FA6_BOS_HITHEAD1 npc/human/femaleadult06/b_hit01.wav
+FA6_BOS_HITARM1 npc/human/femaleadult06/b_hit02.wav
+FA6_BOS_HITLEG1 npc/human/femaleadult06/b_hit03.wav
+FA6_BOS_HIT1 npc/human/femaleadult06/b_hit04.wav
+FA6_BOS_HIT2 npc/human/femaleadult06/b_hit05.wav
+FA6_BOS_HIT3 npc/human/femaleadult06/b_hit06.wav
+FA6_BOS_HIT4 npc/human/femaleadult06/b_hit07.wav
+
+FA6_BOS_LOSTIDLE1 npc/human/femaleadult06/b_lostidle01.wav
+FA6_BOS_LOSTIDLE2 npc/human/femaleadult06/b_lostidle02.wav
+FA6_BOS_LOSTIDLE3 npc/human/femaleadult06/b_lostidle03.wav
+FA6_BOS_LOSTIDLE4 npc/human/femaleadult06/b_lostidle04.wav
+FA6_BOS_LOSTIDLE5 npc/human/femaleadult06/b_lostidle05.wav
+FA6_BOS_LOSTIDLE6 npc/human/femaleadult06/b_lostidle06.wav
+
+FA6_BOS_LOSTTOCOMBAT1 npc/human/femaleadult06/b_losttocombat01.wav
+FA6_BOS_LOSTTOCOMBAT2 npc/human/femaleadult06/b_losttocombat02.wav
+FA6_BOS_LOSTTOCOMBAT3 npc/human/femaleadult06/b_losttocombat03.wav
+FA6_BOS_LOSTTOCOMBAT4 npc/human/femaleadult06/b_losttocombat04.wav
+FA6_BOS_LOSTTOCOMBAT5 npc/human/femaleadult06/b_losttocombat05.wav
+
+FA6_BOS_LOSTTONORMAL1 npc/human/femaleadult06/b_losttonormal01.wav
+FA6_BOS_LOSTTONORMAL2 npc/human/femaleadult06/b_losttonormal02.wav
+FA6_BOS_LOSTTONORMAL3 npc/human/femaleadult06/b_losttonormal03.wav
+FA6_BOS_LOSTTONORMAL4 npc/human/femaleadult06/b_losttonormal04.wav
+FA6_BOS_LOSTTONORMAL5 npc/human/femaleadult06/b_losttonormal05.wav
+
+FA6_BOS_NORMALTOALERT1 npc/human/femaleadult06/b_normaltoalert01.wav
+FA6_BOS_NORMALTOALERT2 npc/human/femaleadult06/b_normaltoalert02.wav
+FA6_BOS_NORMALTOALERT3 npc/human/femaleadult06/b_normaltoalert03.wav
+FA6_BOS_NORMALTOALERT4 npc/human/femaleadult06/b_normaltoalert04.wav
+FA6_BOS_NORMALTOALERT5 npc/human/femaleadult06/b_normaltoalert05.wav
+
+FA6_BOS_NORMALTOCOMBAT1 npc/human/femaleadult06/b_normaltocombat01.wav
+FA6_BOS_NORMALTOCOMBAT2 npc/human/femaleadult06/b_normaltocombat02.wav
+FA6_BOS_NORMALTOCOMBAT3 npc/human/femaleadult06/b_normaltocombat03.wav
+FA6_BOS_NORMALTOCOMBAT4 npc/human/femaleadult06/b_normaltocombat04.wav
+
+FA6_BOS_STARTCOMBATRESPONSE1 npc/human/femaleadult06/b_startcombatresp01.wav
+FA6_BOS_STARTCOMBATRESPONSE2 npc/human/femaleadult06/b_startcombatresp02.wav
+FA6_BOS_STARTCOMBATRESPONSE3 npc/human/femaleadult06/b_startcombatresp03.wav
+FA6_BOS_STARTCOMBATRESPONSE4 npc/human/femaleadult06/b_startcombatresp04.wav
+FA6_BOS_STARTCOMBATRESPONSE5 npc/human/femaleadult06/b_startcombatresp05.wav
+
+FA6_BOS_DEATH1 npc/human/femaleadult06/death01.wav
+FA6_BOS_DEATH2 npc/human/femaleadult06/death02.wav
+FA6_BOS_DEATH3 npc/human/femaleadult06/death03.wav
+
+FA6_BOS_POWERATTACK1 npc/human/femaleadult06/powerattack01.wav
+FA6_BOS_POWERATTACK2 npc/human/femaleadult06/powerattack02.wav
+FA6_BOS_POWERATTACK3 npc/human/femaleadult06/powerattack03.wav
+FA6_BOS_POWERATTACK4 npc/human/femaleadult06/powerattack04.wav
+
+// FEMALE 7
+// BROTHERHOOD OF STEEL
+FA7_BOS_ALERTIDLE1 npc/human/femaleadult07/b_alertidle01.wav
+FA7_BOS_ALERTIDLE2 npc/human/femaleadult07/b_alertidle02.wav
+FA7_BOS_ALERTIDLE3 npc/human/femaleadult07/b_alertidle03.wav
+FA7_BOS_ALERTIDLE4 npc/human/femaleadult07/b_alertidle04.wav
+FA7_BOS_ALERTIDLE5 npc/human/femaleadult07/b_alertidle05.wav
+FA7_BOS_ALERTIDLE6 npc/human/femaleadult07/b_alertidle06.wav
+
+FA7_BOS_ALERTTOCOMBAT1 npc/human/femaleadult07/b_alerttocombat01.wav
+FA7_BOS_ALERTTOCOMBAT2 npc/human/femaleadult07/b_alerttocombat02.wav
+FA7_BOS_ALERTTOCOMBAT3 npc/human/femaleadult07/b_alerttocombat03.wav
+FA7_BOS_ALERTTOCOMBAT4 npc/human/femaleadult07/b_alerttocombat04.wav
+FA7_BOS_ALERTTOCOMBAT5 npc/human/femaleadult07/b_alerttocombat05.wav
+
+FA7_BOS_ALERTTONORMAL1 npc/human/femaleadult07/b_alerttonormal01.wav
+FA7_BOS_ALERTTONORMAL2 npc/human/femaleadult07/b_alerttonormal02.wav
+FA7_BOS_ALERTTONORMAL3 npc/human/femaleadult07/b_alerttonormal03.wav
+FA7_BOS_ALERTTONORMAL4 npc/human/femaleadult07/b_alerttonormal04.wav
+FA7_BOS_ALERTTONORMAL5 npc/human/femaleadult07/b_alerttonormal05.wav
+FA7_BOS_ALERTTONORMAL6 npc/human/femaleadult07/b_alerttonormal06.wav
+
+FA7_BOS_ATTACK1 npc/human/femaleadult07/b_attack01.wav
+FA7_BOS_ATTACK2 npc/human/femaleadult07/b_attack02.wav
+FA7_BOS_ATTACK3 npc/human/femaleadult07/b_attack03.wav
+FA7_BOS_ATTACK4 npc/human/femaleadult07/b_attack04.wav
+FA7_BOS_ATTACK5 npc/human/femaleadult07/b_attack05.wav
+FA7_BOS_ATTACK6 npc/human/femaleadult07/b_attack06.wav
+FA7_BOS_ATTACK7 npc/human/femaleadult07/b_attack07.wav
+FA7_BOS_ATTACK8 npc/human/femaleadult07/b_attack08.wav
+FA7_BOS_ATTACK9 npc/human/femaleadult07/b_attack09.wav
+FA7_BOS_ATTACK10 npc/human/femaleadult07/b_attack10.wav
+FA7_BOS_ATTACK11 npc/human/femaleadult07/b_attack11.wav
+
+FA7_BOS_ATTACKRESPONSE1 npc/human/femaleadult07/b_attackresponse01.wav
+FA7_BOS_ATTACKRESPONSE2 npc/human/femaleadult07/b_attackresponse02.wav
+
+FA7_BOS_AVOIDTHREAT1 npc/human/femaleadult07/b_avoidthreat01.wav
+FA7_BOS_AVOIDTHREAT2 npc/human/femaleadult07/b_avoidthreat02.wav
+FA7_BOS_AVOIDTHREAT3 npc/human/femaleadult07/b_avoidthreat03.wav
+FA7_BOS_AVOIDTHREAT4 npc/human/femaleadult07/b_avoidthreat04.wav
+
+FA7_BOS_AVOIDTHREATRESPONSE1 npc/human/femaleadult07/b_avoidthreatresp01.wav
+FA7_BOS_AVOIDTHREATRESPONSE2 npc/human/femaleadult07/b_avoidthreatresp02.wav
+
+FA7_BOS_COMBATIDLECHATTER1 npc/human/femaleadult07/b_combatidlechatt01.wav
+
+FA7_BOS_COMBATTOLOST1 npc/human/femaleadult07/b_combattolost01.wav
+FA7_BOS_COMBATTOLOST2 npc/human/femaleadult07/b_combattolost02.wav
+FA7_BOS_COMBATTOLOST3 npc/human/femaleadult07/b_combattolost03.wav
+FA7_BOS_COMBATTOLOST4 npc/human/femaleadult07/b_combattolost04.wav
+FA7_BOS_COMBATTOLOST5 npc/human/femaleadult07/b_combattolost05.wav
+FA7_BOS_COMBATTOLOST6 npc/human/femaleadult07/b_combattolost06.wav
+
+FA7_BOS_COMBATTONORMAL1 npc/human/femaleadult07/b_combattonormal01.wav
+FA7_BOS_COMBATTONORMAL2 npc/human/femaleadult07/b_combattonormal02.wav
+FA7_BOS_COMBATTONORMAL3 npc/human/femaleadult07/b_combattonormal03.wav
+FA7_BOS_COMBATTONORMAL4 npc/human/femaleadult07/b_combattonormal04.wav
+FA7_BOS_COMBATTONORMAL5 npc/human/femaleadult07/b_combattonormal05.wav
+FA7_BOS_COMBATTONORMAL6 npc/human/femaleadult07/b_combattonormal06.wav
+
+FA7_BOS_DEATHRESPONSE1 npc/human/femaleadult07/b_deathresponse01.wav
+FA7_BOS_DEATHRESPONSE2 npc/human/femaleadult07/b_deathresponse02.wav
+FA7_BOS_DEATHRESPONSE3 npc/human/femaleadult07/b_deathresponse03.wav
+FA7_BOS_DEATHRESPONSE4 npc/human/femaleadult07/b_deathresponse04.wav
+
+FA7_BOS_FIREEXPLOSIVE1 npc/human/femaleadult07/b_fireexplosive01.wav
+FA7_BOS_FIREEXPLOSIVE2 npc/human/femaleadult07/b_fireexplosive02.wav
+FA7_BOS_FIREEXPLOSIVE3 npc/human/femaleadult07/b_fireexplosive03.wav
+
+FA7_BOS_FLEE1 npc/human/femaleadult07/b_flee01.wav
+FA7_BOS_FLEE2 npc/human/femaleadult07/b_flee02.wav
+FA7_BOS_FLEE3 npc/human/femaleadult07/b_flee03.wav
+
+FA7_BOS_HITHEAD1 npc/human/femaleadult07/b_hit01.wav
+FA7_BOS_HITARM1 npc/human/femaleadult07/b_hit02.wav
+FA7_BOS_HITLEG1 npc/human/femaleadult07/b_hit03.wav
+FA7_BOS_HIT1 npc/human/femaleadult07/b_hit04.wav
+FA7_BOS_HIT2 npc/human/femaleadult07/b_hit05.wav
+FA7_BOS_HIT3 npc/human/femaleadult07/b_hit06.wav
+FA7_BOS_HIT4 npc/human/femaleadult07/b_hit07.wav
+
+FA7_BOS_LOSTIDLE1 npc/human/femaleadult07/b_lostidle01.wav
+FA7_BOS_LOSTIDLE2 npc/human/femaleadult07/b_lostidle02.wav
+FA7_BOS_LOSTIDLE3 npc/human/femaleadult07/b_lostidle03.wav
+FA7_BOS_LOSTIDLE4 npc/human/femaleadult07/b_lostidle04.wav
+FA7_BOS_LOSTIDLE5 npc/human/femaleadult07/b_lostidle05.wav
+FA7_BOS_LOSTIDLE6 npc/human/femaleadult07/b_lostidle06.wav
+
+FA7_BOS_LOSTTOCOMBAT1 npc/human/femaleadult07/b_losttocombat01.wav
+FA7_BOS_LOSTTOCOMBAT2 npc/human/femaleadult07/b_losttocombat02.wav
+FA7_BOS_LOSTTOCOMBAT3 npc/human/femaleadult07/b_losttocombat03.wav
+FA7_BOS_LOSTTOCOMBAT4 npc/human/femaleadult07/b_losttocombat04.wav
+FA7_BOS_LOSTTOCOMBAT5 npc/human/femaleadult07/b_losttocombat05.wav
+
+FA7_BOS_LOSTTONORMAL1 npc/human/femaleadult07/b_losttonormal01.wav
+FA7_BOS_LOSTTONORMAL2 npc/human/femaleadult07/b_losttonormal02.wav
+FA7_BOS_LOSTTONORMAL3 npc/human/femaleadult07/b_losttonormal03.wav
+FA7_BOS_LOSTTONORMAL4 npc/human/femaleadult07/b_losttonormal04.wav
+FA7_BOS_LOSTTONORMAL5 npc/human/femaleadult07/b_losttonormal05.wav
+
+FA7_BOS_NORMALTOALERT1 npc/human/femaleadult07/b_normaltoalert01.wav
+FA7_BOS_NORMALTOALERT2 npc/human/femaleadult07/b_normaltoalert02.wav
+FA7_BOS_NORMALTOALERT3 npc/human/femaleadult07/b_normaltoalert03.wav
+FA7_BOS_NORMALTOALERT4 npc/human/femaleadult07/b_normaltoalert04.wav
+FA7_BOS_NORMALTOALERT5 npc/human/femaleadult07/b_normaltoalert05.wav
+
+FA7_BOS_NORMALTOCOMBAT1 npc/human/femaleadult07/b_normaltocombat01.wav
+FA7_BOS_NORMALTOCOMBAT2 npc/human/femaleadult07/b_normaltocombat02.wav
+FA7_BOS_NORMALTOCOMBAT3 npc/human/femaleadult07/b_normaltocombat03.wav
+FA7_BOS_NORMALTOCOMBAT4 npc/human/femaleadult07/b_normaltocombat04.wav
+
+FA7_BOS_STARTCOMBATRESPONSE1 npc/human/femaleadult07/b_startcombatresp01.wav
+FA7_BOS_STARTCOMBATRESPONSE2 npc/human/femaleadult07/b_startcombatresp02.wav
+FA7_BOS_STARTCOMBATRESPONSE3 npc/human/femaleadult07/b_startcombatresp03.wav
+FA7_BOS_STARTCOMBATRESPONSE4 npc/human/femaleadult07/b_startcombatresp04.wav
+FA7_BOS_STARTCOMBATRESPONSE5 npc/human/femaleadult07/b_startcombatresp05.wav
+
+FA7_BOS_DEATH1 npc/human/femaleadult07/death01.wav
+FA7_BOS_DEATH2 npc/human/femaleadult07/death02.wav
+FA7_BOS_DEATH3 npc/human/femaleadult07/death03.wav
+
+FA7_BOS_POWERATTACK1 npc/human/femaleadult07/powerattack01.wav
+FA7_BOS_POWERATTACK2 npc/human/femaleadult07/powerattack02.wav
+FA7_BOS_POWERATTACK3 npc/human/femaleadult07/powerattack03.wav
+FA7_BOS_POWERATTACK4 npc/human/femaleadult07/powerattack04.wav

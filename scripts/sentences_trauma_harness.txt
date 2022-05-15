@@ -1,0 +1,19 @@
+// Y-17 Trauma Override Harness
+Y17_TRAUMA_HARNESS_ATTACK1 npc/traumaharness/attack01.wav
+Y17_TRAUMA_HARNESS_ATTACK2 npc/traumaharness/attack02.wav
+Y17_TRAUMA_HARNESS_ATTACK3 npc/traumaharness/attack03.wav
+Y17_TRAUMA_HARNESS_ATTACK4 npc/traumaharness/attack04.wav
+
+Y17_TRAUMA_HARNESS_DEATH1 npc/traumaharness/death01.wav
+Y17_TRAUMA_HARNESS_DEATH2 npc/traumaharness/death02.wav
+Y17_TRAUMA_HARNESS_DEATH3 npc/traumaharness/death03.wav
+
+Y17_TRAUMA_HARNESS_HIT1 npc/traumaharness/hit01.wav
+Y17_TRAUMA_HARNESS_HIT2 npc/traumaharness/hit02.wav
+Y17_TRAUMA_HARNESS_HIT3 npc/traumaharness/hit03.wav
+Y17_TRAUMA_HARNESS_HIT4 npc/traumaharness/hit04.wav
+
+Y17_TRAUMA_HARNESS_POWERATTACK1 npc/traumaharness/powerattack01.wav
+Y17_TRAUMA_HARNESS_POWERATTACK2 npc/traumaharness/powerattack02.wav
+Y17_TRAUMA_HARNESS_POWERATTACK3 npc/traumaharness/powerattack03.wav
+Y17_TRAUMA_HARNESS_POWERATTACK4 npc/traumaharness/powerattack04.wav

@@ -1,0 +1,37 @@
+// GARRY
+MA1_GARRY_ALERTIDLE1 npc/human/maleadult01/vault108_alertidle01.wav
+MA1_GARRY_ALERTIDLE2 npc/human/maleadult01/vault108_alertidle02.wav
+
+MA1_GARRY_ALERTTOCOMBAT1 npc/human/maleadult01/vault108_alerttocombat01.wav
+MA1_GARRY_ALERTTOCOMBAT2 npc/human/maleadult01/vault108_alerttocombat02.wav
+MA1_GARRY_ALERTTOCOMBAT3 npc/human/maleadult01/vault108_alerttocombat03.wav
+
+MA1_GARRY_ALERTTONORMAL1 npc/human/maleadult01/vault108_alerttonormal01.wav
+MA1_GARRY_ALERTTONORMAL2 npc/human/maleadult01/vault108_alerttonormal02.wav
+
+MA1_GARRY_ATTACK1 npc/human/maleadult01/vault108_attack01.wav
+MA1_GARRY_ATTACK2 npc/human/maleadult01/vault108_attack02.wav
+
+MA1_GARRY_AVOIDTHREAT1 npc/human/maleadult01/vault108_avoidthreat01.wav
+
+MA1_GARRY_COMBATTOLOST1 npc/human/maleadult01/vault108_combattolost01.wav
+
+MA1_GARRY_COMBATTONORMAL1 npc/human/maleadult01/vault108_combattonormal01.wav
+MA1_GARRY_COMBATTONORMAL2 npc/human/maleadult01/vault108_combattonormal01.wav
+MA1_GARRY_COMBATTONORMAL3 npc/human/maleadult01/vault108_combattonormal01.wav
+
+MA1_GARRY_FIREEXPLOSIVE1 npc/human/maleadult01/vault108_fireexplosive01.wav
+
+MA1_GARRY_LOSTIDLE1 npc/human/maleadult01/vault108_lostidle01.wav
+MA1_GARRY_LOSTIDLE2 npc/human/maleadult01/vault108_lostidle02.wav
+
+MA1_GARRY_LOSTTOCOMBAT1 npc/human/maleadult01/vault108_losttocombat01.wav
+MA1_GARRY_LOSTTOCOMBAT2 npc/human/maleadult01/vault108_losttocombat01.wav
+
+MA1_GARRY_LOSTTONORMAL1 npc/human/maleadult01/vault108_losttonormal01.wav
+
+MA1_GARRY_NORMALTOALERT1 npc/human/maleadult01/vault108_normaltoalert01.wav
+
+MA1_GARRY_NORMALTOCOMBAT1 npc/human/maleadult01/vault108_normaltocombat01.wav
+
+MA1_GARRY_STARTCOMBATRESP1 npc/human/maleadult01/vault108_startcombatresp01.wav

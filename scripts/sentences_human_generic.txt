@@ -1,0 +1,288 @@
+// GENERIC
+// MALE 1
+MA1_GEN_ALERTIDLE1 npc/human/maleadult01/generic_alertidle01.wav
+MA1_GEN_ALERTIDLE2 npc/human/maleadult01/genericadu_alertidle01.wav
+MA1_GEN_ALERTIDLE3 npc/human/maleadult01/genericadu_alertidle02.wav
+MA1_GEN_ALERTIDLE4 npc/human/maleadult01/genericadu_alertidle03.wav
+
+MA1_GEN_ALERTTOCOMBAT1 npc/human/maleadult01/generic_alerttocombat01.wav
+MA1_GEN_ALERTTOCOMBAT2 npc/human/maleadult01/genericadu_alerttocombat01.wav
+MA1_GEN_ALERTTOCOMBAT3 npc/human/maleadult01/genericadu_alerttocombat02.wav
+MA1_GEN_ALERTTOCOMBAT4 npc/human/maleadult01/genericadu_alerttocombat03.wav
+MA1_GEN_ALERTTOCOMBAT5 npc/human/maleadult01/genericadu_alerttocombat04.wav
+
+MA1_GEN_ALERTTONORMAL1 npc/human/maleadult01/generic_alerttonormal01.wav
+MA1_GEN_ALERTTONORMAL2 npc/human/maleadult01/genericadu_alerttonormal01.wav
+MA1_GEN_ALERTTONORMAL3 npc/human/maleadult01/genericadu_alerttonormal02.wav
+MA1_GEN_ALERTTONORMAL4 npc/human/maleadult01/genericadu_alerttonormal03.wav
+
+MA1_GEN_COMBATTOLOST1 npc/human/maleadult01/generic_combattolost01.wav
+MA1_GEN_COMBATTOLOST2 npc/human/maleadult01/genericadu_combattolost01.wav
+MA1_GEN_COMBATTOLOST3 npc/human/maleadult01/genericadu_combattolost02.wav
+MA1_GEN_COMBATTOLOST4 npc/human/maleadult01/genericadu_combattolost03.wav
+
+MA1_GEN_COMBATTONORMAL1 npc/human/maleadult01/generic_combattonormal01.wav
+MA1_GEN_COMBATTONORMAL2 npc/human/maleadult01/genericadu_combattonormal01.wav
+MA1_GEN_COMBATTONORMAL3 npc/human/maleadult01/genericadu_combattonormal02.wav
+MA1_GEN_COMBATTONORMAL4 npc/human/maleadult01/genericadu_combattonormal03.wav
+
+MA1_GEN_DEATH1 npc/human/maleadult01/generic_death01.wav
+MA1_GEN_DEATH2 npc/human/maleadult01/generic_death02.wav
+MA1_GEN_DEATH3 npc/human/maleadult01/generic_death03.wav
+
+MA1_GEN_GOODBYE1 npc/human/maleadult01/generic_goodbye01.wav
+MA1_GEN_GOODBYE2 npc/human/maleadult01/genericadult_goodbye01.wav
+MA1_GEN_GOODBYE3 npc/human/maleadult01/genericadult_goodbye02.wav
+
+MA1_GEN_HELLO1 npc/human/maleadult01/generic_hello01.wav
+MA1_GEN_HELLO2 npc/human/maleadult01/genericadult_hello01.wav
+MA1_GEN_HELLO3 npc/human/maleadult01/genericadult_hello02.wav
+MA1_GEN_HELLO4 npc/human/maleadult01/genericadult_hello03.wav
+
+MA1_GEN_HIT1 npc/human/maleadult01/generic_hit01.wav
+MA1_GEN_HIT2 npc/human/maleadult01/generic_hit02.wav
+MA1_GEN_HIT3 npc/human/maleadult01/generic_hit03.wav
+MA1_GEN_HIT4 npc/human/maleadult01/generic_hit04.wav
+MA1_GEN_HIT5 npc/human/maleadult01/generic_hit05.wav
+MA1_GEN_HIT6 npc/human/maleadult01/genericadultcombat_hit01.wav
+MA1_GEN_HIT7 npc/human/maleadult01/genericadultcombat_hit02.wav
+
+MA1_GEN_LOSTIDLE1 npc/human/maleadult01/generic_lostidle01.wav
+MA1_GEN_LOSTIDLE2 npc/human/maleadult01/genericadu_lostidle01.wav
+MA1_GEN_LOSTIDLE3 npc/human/maleadult01/genericadu_lostidle02.wav
+MA1_GEN_LOSTIDLE4 npc/human/maleadult01/genericadu_lostidle03.wav
+
+MA1_GEN_LOSTTOCOMBAT1 npc/human/maleadult01/generic_losttocombat01.wav
+MA1_GEN_LOSTTOCOMBAT2 npc/human/maleadult01/genericadu_losttocombat01.wav
+MA1_GEN_LOSTTOCOMBAT3 npc/human/maleadult01/genericadu_losttocombat02.wav
+MA1_GEN_LOSTTOCOMBAT4 npc/human/maleadult01/genericadu_losttocombat03.wav
+
+MA1_GEN_LOSTTONORMAL1 npc/human/maleadult01/generic_losttonormal01.wav
+MA1_GEN_LOSTTONORMAL2 npc/human/maleadult01/generic_losttonormal02.wav
+MA1_GEN_LOSTTONORMAL3 npc/human/maleadult01/generic_losttonormal03.wav
+MA1_GEN_LOSTTONORMAL4 npc/human/maleadult01/genericadu_losttonormal01.wav
+MA1_GEN_LOSTTONORMAL5 npc/human/maleadult01/genericadu_losttonormal02.wav
+MA1_GEN_LOSTTONORMAL6 npc/human/maleadult01/genericadu_losttonormal03.wav
+
+MA1_GEN_NORMALTOALERT1 npc/human/maleadult01/generic_normaltoalert01.wav
+MA1_GEN_NORMALTOALERT2 npc/human/maleadult01/genericadu_normaltoalert01.wav
+MA1_GEN_NORMALTOALERT3 npc/human/maleadult01/genericadu_normaltoalert02.wav
+MA1_GEN_NORMALTOALERT4 npc/human/maleadult01/genericadu_normaltoalert03.wav
+
+MA1_GEN_NORMALTOCOMBAT1 npc/human/maleadult01/generic_normaltocombat01.wav
+MA1_GEN_NORMALTOCOMBAT2 npc/human/maleadult01/genericadu_normaltocombat01.wav
+MA1_GEN_NORMALTOCOMBAT3 npc/human/maleadult01/genericadu_normaltocombat02.wav
+MA1_GEN_NORMALTOCOMBAT4 npc/human/maleadult01/genericadu_normaltocombat03.wav
+
+MA1_GEN_POWERATTACK1 npc/human/maleadult01/generic_powerattack01.wav
+MA1_GEN_POWERATTACK2 npc/human/maleadult01/generic_powerattack02.wav
+MA1_GEN_POWERATTACK3 npc/human/maleadult01/generic_powerattack03.wav
+MA1_GEN_POWERATTACK4 npc/human/maleadult01/generic_powerattack04.wav
+
+MA1_GEN_ACCEPTYIELD1 npc/human/maleadult01/genericadu_acceptyield01.wav
+
+MA1_GEN_AVOIDTHREAT1 npc/human/maleadult01/genericadu_avoidthreat01.wav
+MA1_GEN_AVOIDTHREAT2 npc/human/maleadult01/genericadu_avoidthreat02.wav
+
+MA1_GEN_DEATHRESPONSE1 npc/human/maleadult01/genericadu_deathresponse01.wav
+MA1_GEN_DEATHRESPONSE2 npc/human/maleadult01/genericadu_deathresponse02.wav
+MA1_GEN_DEATHRESPONSE3 npc/human/maleadult01/genericadu_deathresponse03.wav
+MA1_GEN_DEATHRESPONSE4 npc/human/maleadult01/genericadu_deathresponse04.wav
+MA1_GEN_DEATHRESPONSE5 npc/human/maleadult01/genericadu_deathresponse05.wav
+
+MA1_GEN_FIREEXPLOSIVE1 npc/human/maleadult01/genericadu_fireexplosive01.wav
+MA1_GEN_FIREEXPLOSIVE2 npc/human/maleadult01/genericadu_fireexplosive02.wav
+
+MA1_GEN_GUARDTRESPASS1 npc/human/maleadult01/genericadu_guardtrespass01.wav
+MA1_GEN_GUARDTRESPASS2 npc/human/maleadult01/genericadu_guardtrespass02.wav
+MA1_GEN_GUARDTRESPASS3 npc/human/maleadult01/genericadu_guardtrespass03.wav
+
+MA1_GEN_MURDERNOCRIME1 npc/human/maleadult01/genericadu_murdernocrime01.wav
+MA1_GEN_MURDERNOCRIME2 npc/human/maleadult01/genericadu_murdernocrime02.wav
+
+MA1_GEN_PLAYERFIREWEAPON1 npc/human/maleadult01/genericadu_playerfireweapon01.wav
+MA1_GEN_PLAYERFIREWEAPON2 npc/human/maleadult01/genericadu_playerfireweapon02.wav
+
+MA1_GEN_PLAYERINIRONSIT1 npc/human/maleadult01/genericadu_playerinironsit01.wav
+MA1_GEN_PLAYERINIRONSIT2 npc/human/maleadult01/genericadu_playerinironsit02.wav
+
+MA1_GEN_PLAYERLAYMINE1 npc/human/maleadult01/genericadu_playerlaymine01.wav
+MA1_GEN_PLAYERLAYMINE2 npc/human/maleadult01/genericadu_playerlaymine02.wav
+
+MA1_GEN_PLAYERTHROWGREN1 npc/human/maleadult01/genericadu_playerthrowgren01.wav
+MA1_GEN_PLAYERTHROWGREN2 npc/human/maleadult01/genericadu_playerthrowgren02.wav
+
+MA1_GEN_BARTEREXIT1 npc/human/maleadult01/genericadult_barterexit01.wav
+MA1_GEN_BARTEREXIT2 npc/human/maleadult01/genericadult_barterexit02.wav
+MA1_GEN_BARTEREXIT3 npc/human/maleadult01/genericadult_barterexit03.wav
+MA1_GEN_BARTEREXIT4 npc/human/maleadult01/genericadult_barterexit04.wav
+
+MA1_GEN_GREETING1 npc/human/maleadult01/genericadult_greeting01.wav
+
+MA1_GEN_OBSERVECOMBAT1 npc/human/maleadult01/genericadult_observecombat01.wav
+MA1_GEN_OBSERVECOMBAT2 npc/human/maleadult01/genericadult_observecombat02.wav
+
+MA1_GEN_ASSAULT1 npc/human/maleadult01/genericadultcombat_assault01.wav
+MA1_GEN_ASSAULT2 npc/human/maleadult01/genericadultcombat_assault02.wav
+MA1_GEN_ASSAULT3 npc/human/maleadult01/genericadultcombat_assault03.wav
+
+MA1_GEN_ATTACK1 npc/human/maleadult01/genericadultcombat_attack01.wav
+MA1_GEN_ATTACK2 npc/human/maleadult01/genericadultcombat_attack02.wav
+MA1_GEN_ATTACK3 npc/human/maleadult01/genericadultcombat_attack03.wav
+
+MA1_GEN_FLEE1 npc/human/maleadult01/genericadultcombat_flee01.wav
+MA1_GEN_FLEE2 npc/human/maleadult01/genericadultcombat_flee02.wav
+MA1_GEN_FLEE3 npc/human/maleadult01/genericadultcombat_flee03.wav
+
+MA1_GEN_MURDER1 npc/human/maleadult01/genericadultcombat_murder01.wav
+MA1_GEN_MURDER2 npc/human/maleadult01/genericadultcombat_murder02.wav
+MA1_GEN_MURDER3 npc/human/maleadult01/genericadultcombat_murder03.wav
+
+MA1_GEN_STEAL1 npc/human/maleadult01/genericadultcombat_steal01.wav
+MA1_GEN_STEAL2 npc/human/maleadult01/genericadultcombat_steal02.wav
+MA1_GEN_STEAL3 npc/human/maleadult01/genericadultcombat_steal03.wav
+
+// MALE 2
+MA2_GEN_ACCEPTYIELD1 npc/human/maleadult01/b_generic_acceptyield01.wav
+
+MA2_GEN_ALERTIDLE1 npc/human/maleadult01/b_generic_alertidle01.wav
+MA2_GEN_ALERTIDLE2 npc/human/maleadult01/b_generic_alertidle02.wav
+MA2_GEN_ALERTIDLE3 npc/human/maleadult01/b_generic_alertidle03.wav
+MA2_GEN_ALERTIDLE4 npc/human/maleadult01/b_generic_alertidle04.wav
+
+MA2_GEN_ALERTTOCOMBAT1 npc/human/maleadult01/b_generic_alerttocombat01.wav
+MA2_GEN_ALERTTOCOMBAT2 npc/human/maleadult01/b_generic_alerttocombat02.wav
+MA2_GEN_ALERTTOCOMBAT3 npc/human/maleadult01/b_generic_alerttocombat03.wav
+MA2_GEN_ALERTTOCOMBAT4 npc/human/maleadult01/b_generic_alerttocombat04.wav
+MA2_GEN_ALERTTOCOMBAT5 npc/human/maleadult01/b_generic_alerttocombat05.wav
+
+MA2_GEN_ALERTTONORMAL1 npc/human/maleadult01/b_generic_alerttonormal01.wav
+MA2_GEN_ALERTTONORMAL2 npc/human/maleadult01/b_generic_alerttonormal02.wav
+MA2_GEN_ALERTTONORMAL3 npc/human/maleadult01/b_generic_alerttonormal03.wav
+MA2_GEN_ALERTTONORMAL4 npc/human/maleadult01/b_generic_alerttonormal04.wav
+
+MA2_GEN_ASSAULT1 npc/human/maleadult01/b_generic_assault01.wav
+MA2_GEN_ASSAULT2 npc/human/maleadult01/b_generic_assault02.wav
+MA2_GEN_ASSAULT3 npc/human/maleadult01/b_generic_assault03.wav
+
+MA2_GEN_ATTACK1 npc/human/maleadult01/b_generic_attack01.wav
+MA2_GEN_ATTACK2 npc/human/maleadult01/b_generic_attack02.wav
+MA2_GEN_ATTACK3 npc/human/maleadult01/b_generic_attack03.wav
+
+MA2_GEN_AVOIDTHREAT1 npc/human/maleadult01/b_generic_avoidthreat01.wav
+MA2_GEN_AVOIDTHREAT2 npc/human/maleadult01/b_generic_avoidthreat02.wav
+
+MA2_GEN_BARTEREXIT1 npc/human/maleadult01/b_generic_barterexit01.wav
+MA2_GEN_BARTEREXIT2 npc/human/maleadult01/b_generic_barterexit02.wav
+MA2_GEN_BARTEREXIT3 npc/human/maleadult01/b_generic_barterexit03.wav
+MA2_GEN_BARTEREXIT4 npc/human/maleadult01/b_generic_barterexit04.wav
+
+MA2_GEN_COMBATTOLOST1 npc/human/maleadult01/b_generic_combattolost01.wav
+MA2_GEN_COMBATTOLOST2 npc/human/maleadult01/b_generic_combattolost02.wav
+MA2_GEN_COMBATTOLOST3 npc/human/maleadult01/b_generic_combattolost03.wav
+MA2_GEN_COMBATTOLOST4 npc/human/maleadult01/b_generic_combattolost04.wav
+
+MA2_GEN_COMBATTONORMAL1 npc/human/maleadult01/b_generic_combattonormal01.wav
+MA2_GEN_COMBATTONORMAL2 npc/human/maleadult01/b_generic_combattonormal02.wav
+MA2_GEN_COMBATTONORMAL3 npc/human/maleadult01/b_generic_combattonormal03.wav
+MA2_GEN_COMBATTONORMAL4 npc/human/maleadult01/b_generic_combattonormal04.wav
+
+MA2_GEN_DEATH1 npc/human/maleadult01/b_generic_death01.wav
+MA2_GEN_DEATH2 npc/human/maleadult01/b_generic_death02.wav
+MA2_GEN_DEATH3 npc/human/maleadult01/b_generic_death03.wav
+
+MA2_GEN_DEATHRESPONSE1 npc/human/maleadult01/b_generic_deathresponse01.wav
+MA2_GEN_DEATHRESPONSE2 npc/human/maleadult01/b_generic_deathresponse02.wav
+MA2_GEN_DEATHRESPONSE3 npc/human/maleadult01/b_generic_deathresponse03.wav
+MA2_GEN_DEATHRESPONSE4 npc/human/maleadult01/b_generic_deathresponse04.wav
+MA2_GEN_DEATHRESPONSE5 npc/human/maleadult01/b_generic_deathresponse05.wav
+
+MA2_GEN_FIREEXPLOSIVE1 npc/human/maleadult01/b_generic_fireexplosive01.wav
+MA2_GEN_FIREEXPLOSIVE2 npc/human/maleadult01/b_generic_fireexplosive02.wav
+
+MA2_GEN_FLEE1 npc/human/maleadult01/b_generic_flee01.wav
+MA2_GEN_FLEE2 npc/human/maleadult01/b_generic_flee02.wav
+MA2_GEN_FLEE3 npc/human/maleadult01/b_generic_flee03.wav
+
+MA2_GEN_GOODBYE1 npc/human/maleadult01/b_generic_goodbye01.wav
+MA2_GEN_GOODBYE2 npc/human/maleadult01/b_generic_goodbye02.wav
+
+MA2_GEN_GREETING1 npc/human/maleadult01/b_generic_greeting01.wav
+MA2_GEN_GREETING2 npc/human/maleadult01/b_generic_greeting02.wav
+MA2_GEN_GREETING3 npc/human/maleadult01/b_generic_greeting03.wav
+MA2_GEN_GREETING4 npc/human/maleadult01/b_generic_greeting04.wav
+
+MA2_GEN_GUARDTRESPASS1 npc/human/maleadult01/b_generic_guardtrespass01.wav
+MA2_GEN_GUARDTRESPASS2 npc/human/maleadult01/b_generic_guardtrespass02.wav
+MA2_GEN_GUARDTRESPASS3 npc/human/maleadult01/b_generic_guardtrespass03.wav
+
+MA2_GEN_HELLO1 npc/human/maleadult01/b_generic_hello01.wav
+MA2_GEN_HELLO2 npc/human/maleadult01/b_generic_hello01.wav
+MA2_GEN_HELLO3 npc/human/maleadult01/b_generic_hello01.wav
+MA2_GEN_HELLO4 npc/human/maleadult01/b_generic_hello01.wav
+
+MA2_GEN_HIT1 npc/human/maleadult01/b_generic_hit01.wav
+MA2_GEN_HIT2 npc/human/maleadult01/b_generic_hit02.wav
+MA2_GEN_HIT3 npc/human/maleadult01/b_generic_hit03.wav
+MA2_GEN_HIT4 npc/human/maleadult01/b_generic_hit04.wav
+MA2_GEN_HIT5 npc/human/maleadult01/b_generic_hit05.wav
+MA2_GEN_HIT6 npc/human/maleadult01/b_generic_hit06.wav
+MA2_GEN_HIT7 npc/human/maleadult01/b_generic_hit07.wav
+
+MA2_GEN_LOSTIDLE1 npc/human/maleadult01/b_generic_lostidle01.wav
+MA2_GEN_LOSTIDLE2 npc/human/maleadult01/b_generic_lostidle02.wav
+MA2_GEN_LOSTIDLE3 npc/human/maleadult01/b_generic_lostidle03.wav
+MA2_GEN_LOSTIDLE4 npc/human/maleadult01/b_generic_lostidle04.wav
+
+MA2_GEN_LOSTTOCOMBAT1 npc/human/maleadult01/b_generic_losttocombat01.wav
+MA2_GEN_LOSTTOCOMBAT2 npc/human/maleadult01/b_generic_losttocombat02.wav
+MA2_GEN_LOSTTOCOMBAT3 npc/human/maleadult01/b_generic_losttocombat03.wav
+MA2_GEN_LOSTTOCOMBAT4 npc/human/maleadult01/b_generic_losttocombat04.wav
+
+MA2_GEN_LOSTTONORMAL1 npc/human/maleadult01/b_generic_losttonormal01.wav
+MA2_GEN_LOSTTONORMAL2 npc/human/maleadult01/b_generic_losttonormal02.wav
+MA2_GEN_LOSTTONORMAL3 npc/human/maleadult01/b_generic_losttonormal03.wav
+MA2_GEN_LOSTTONORMAL4 npc/human/maleadult01/b_generic_losttonormal04.wav
+MA2_GEN_LOSTTONORMAL5 npc/human/maleadult01/b_generic_losttonormal05.wav
+MA2_GEN_LOSTTONORMAL6 npc/human/maleadult01/b_generic_losttonormal06.wav
+
+MA2_GEN_MURDER1 npc/human/maleadult01/b_generic_murder01.wav
+MA2_GEN_MURDER2 npc/human/maleadult01/b_generic_murder02.wav
+MA2_GEN_MURDER3 npc/human/maleadult01/b_generic_murder03.wav
+
+MA2_GEN_MURDERNOCRIME1 npc/human/maleadult01/b_generic_murdernocrime01.wav
+MA2_GEN_MURDERNOCRIME2 npc/human/maleadult01/b_generic_murdernocrime02.wav
+
+MA2_GEN_NORMALTOALERT1 npc/human/maleadult01/b_generic_normaltoalert01.wav
+MA2_GEN_NORMALTOALERT2 npc/human/maleadult01/b_generic_normaltoalert02.wav
+MA2_GEN_NORMALTOALERT3 npc/human/maleadult01/b_generic_normaltoalert03.wav
+MA2_GEN_NORMALTOALERT4 npc/human/maleadult01/b_generic_normaltoalert04.wav
+
+MA2_GEN_NORMALTOCOMBAT1 npc/human/maleadult01/b_generic_normaltocombat01.wav
+MA2_GEN_NORMALTOCOMBAT2 npc/human/maleadult01/b_generic_normaltocombat02.wav
+MA2_GEN_NORMALTOCOMBAT3 npc/human/maleadult01/b_generic_normaltocombat03.wav
+MA2_GEN_NORMALTOCOMBAT4 npc/human/maleadult01/b_generic_normaltocombat04.wav
+
+MA2_GEN_OBSERVECOMBAT1 npc/human/maleadult01/b_generic_observecombat01.wav
+MA2_GEN_OBSERVECOMBAT2 npc/human/maleadult01/b_generic_observecombat02.wav
+
+MA2_GEN_PLAYERFIREWEAPON1 npc/human/maleadult01/b_generic_playerfireweapon01.wav
+MA2_GEN_PLAYERFIREWEAPON2 npc/human/maleadult01/b_generic_playerfireweapon02.wav
+
+MA2_GEN_PLAYERINIRONSIT1 npc/human/maleadult01/b_generic_playerinironsit01.wav
+MA2_GEN_PLAYERINIRONSIT2 npc/human/maleadult01/b_generic_playerinironsit02.wav
+
+MA2_GEN_PLAYERLAYMINE1 npc/human/maleadult01/b_generic_playerlaymine01.wav
+MA2_GEN_PLAYERLAYMINE2 npc/human/maleadult01/b_generic_playerlaymine02.wav
+
+MA2_GEN_PLAYERTHROWGREN1 npc/human/maleadult01/b_generic_playerthrowgren01.wav
+MA2_GEN_PLAYERTHROWGREN2 npc/human/maleadult01/b_generic_playerthrowgren02.wav
+
+MA2_GEN_POWERATTACK1 npc/human/maleadult01/b_generic_powerattack01.wav
+MA2_GEN_POWERATTACK2 npc/human/maleadult01/b_generic_powerattack02.wav
+MA2_GEN_POWERATTACK3 npc/human/maleadult01/b_generic_powerattack03.wav
+MA2_GEN_POWERATTACK4 npc/human/maleadult01/b_generic_powerattack04.wav
+
+MA2_GEN_STEAL1 npc/human/maleadult01/b_generic_steal01.wav
+MA2_GEN_STEAL2 npc/human/maleadult01/b_generic_steal02.wav
+MA2_GEN_STEAL3 npc/human/maleadult01/b_generic_steal03.wav

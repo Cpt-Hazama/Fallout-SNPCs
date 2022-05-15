@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/fallout/ammo/dart/dartgunammo01"
+	"$normalmap"     "models/fallout/ammo/dart/dartgunammo01_n"
+	"$translucent" "1"
+}

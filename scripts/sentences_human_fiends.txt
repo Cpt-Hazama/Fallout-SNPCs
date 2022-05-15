@@ -1,0 +1,132 @@
+// MALE 1
+// FIEND
+MA1_FIEND_COMBATTONORMAL1 npc/human/maleadult01/fie_combattonormal01.wav
+MA1_FIEND_COMBATTONORMAL2 npc/human/maleadult01/fie_combattonormal02.wav
+MA1_FIEND_COMBATTONORMAL3 npc/human/maleadult01/fie_combattonormal03.wav
+
+MA1_FIEND_NORMALTOCOMBAT1 npc/human/maleadult01/fie_normaltocombat01.wav
+MA1_FIEND_NORMALTOCOMBAT2 npc/human/maleadult01/fie_normaltocombat02.wav
+MA1_FIEND_NORMALTOCOMBAT3 npc/human/maleadult01/fie_normaltocombat03.wav
+
+MA1_FIEND_ALERTIDLE1 npc/human/maleadult01/fiend_alertidle01.wav
+MA1_FIEND_ALERTIDLE2 npc/human/maleadult01/fiend_alertidle02.wav
+
+MA1_FIEND_ALERTTOCOMBAT1 npc/human/maleadult01/fiend_alerttocombat01.wav
+MA1_FIEND_ALERTTOCOMBAT2 npc/human/maleadult01/fiend_alerttocombat02.wav
+MA1_FIEND_ALERTTOCOMBAT3 npc/human/maleadult01/fiend_alerttocombat03.wav
+
+MA1_FIEND_ALERTTONORMAL1 npc/human/maleadult01/fiend_alerttonormal01.wav
+MA1_FIEND_ALERTTONORMAL2 npc/human/maleadult01/fiend_alerttonormal02.wav
+MA1_FIEND_ALERTTONORMAL3 npc/human/maleadult01/fiend_alerttonormal03.wav
+
+MA1_FIEND_ATTACK1 npc/human/maleadult01/fiend_attack01.wav
+MA1_FIEND_ATTACK2 npc/human/maleadult01/fiend_attack02.wav
+MA1_FIEND_ATTACK3 npc/human/maleadult01/fiend_attack03.wav
+
+MA1_FIEND_AVOIDTHREAT1 npc/human/maleadult01/fiend_avoidthreat01.wav
+MA1_FIEND_AVOIDTHREAT2 npc/human/maleadult01/fiend_avoidthreat02.wav
+
+MA1_FIEND_COMBATTOLOST1 npc/human/maleadult01/fiend_combattolost01.wav
+MA1_FIEND_COMBATTOLOST2 npc/human/maleadult01/fiend_combattolost02.wav
+MA1_FIEND_COMBATTOLOST3 npc/human/maleadult01/fiend_combattolost03.wav
+
+MA1_FIEND_DEATHRESPONSE1 npc/human/maleadult01/fiend_deathresponse01.wav
+MA1_FIEND_DEATHRESPONSE2 npc/human/maleadult01/fiend_deathresponse02.wav
+MA1_FIEND_DEATHRESPONSE3 npc/human/maleadult01/fiend_deathresponse03.wav
+MA1_FIEND_DEATHRESPONSE4 npc/human/maleadult01/fiend_deathresponse04.wav
+MA1_FIEND_DEATHRESPONSE5 npc/human/maleadult01/fiend_deathresponse05.wav
+MA1_FIEND_DEATHRESPONSE6 npc/human/maleadult01/fiend_deathresponse06.wav
+
+MA1_FIEND_FIREEXPLOSIVE1 npc/human/maleadult01/fiend_fireexplosive01.wav
+MA1_FIEND_FIREEXPLOSIVE2 npc/human/maleadult01/fiend_fireexplosive02.wav
+
+MA1_FIEND_FLEE1 npc/human/maleadult01/fiend_flee01.wav
+MA1_FIEND_FLEE2 npc/human/maleadult01/fiend_flee02.wav
+MA1_FIEND_FLEE3 npc/human/maleadult01/fiend_flee03.wav
+
+MA1_FIEND_LOSTIDLE1 npc/human/maleadult01/fiend_lostidle01.wav
+MA1_FIEND_LOSTIDLE2 npc/human/maleadult01/fiend_lostidle02.wav
+MA1_FIEND_LOSTIDLE3 npc/human/maleadult01/fiend_lostidle03.wav
+
+MA1_FIEND_LOSTTOCOMBAT1 npc/human/maleadult01/fiend_losttocombat01.wav
+MA1_FIEND_LOSTTOCOMBAT2 npc/human/maleadult01/fiend_losttocombat02.wav
+MA1_FIEND_LOSTTOCOMBAT3 npc/human/maleadult01/fiend_losttocombat03.wav
+
+MA1_FIEND_LOSTTONORMAL1 npc/human/maleadult01/fiend_losttonormal01.wav
+MA1_FIEND_LOSTTONORMAL2 npc/human/maleadult01/fiend_losttonormal02.wav
+MA1_FIEND_LOSTTONORMAL3 npc/human/maleadult01/fiend_losttonormal03.wav
+
+MA1_FIEND_NORMALTOALERT1 npc/human/maleadult01/fiend_normaltoalert01.wav
+MA1_FIEND_NORMALTOALERT2 npc/human/maleadult01/fiend_normaltoalert02.wav
+MA1_FIEND_NORMALTOALERT3 npc/human/maleadult01/fiend_normaltoalert03.wav
+
+MA1_FIEND_POWERATTACK1 npc/human/maleadult01/powerattack01.wav
+MA1_FIEND_POWERATTACK2 npc/human/maleadult01/powerattack02.wav
+MA1_FIEND_POWERATTACK3 npc/human/maleadult01/powerattack03.wav
+MA1_FIEND_POWERATTACK4 npc/human/maleadult01/powerattack04.wav
+
+// MALE 3
+// FIEND
+MA3_FIEND_COMBATTONORMAL1 npc/human/maleadult03/fie_combattonormal01.wav
+MA3_FIEND_COMBATTONORMAL2 npc/human/maleadult03/fie_combattonormal02.wav
+MA3_FIEND_COMBATTONORMAL3 npc/human/maleadult03/fie_combattonormal03.wav
+
+MA3_FIEND_NORMALTOCOMBAT1 npc/human/maleadult03/fie_normaltocombat01.wav
+MA3_FIEND_NORMALTOCOMBAT2 npc/human/maleadult03/fie_normaltocombat02.wav
+MA3_FIEND_NORMALTOCOMBAT3 npc/human/maleadult03/fie_normaltocombat03.wav
+
+MA3_FIEND_ALERTIDLE1 npc/human/maleadult03/fiend_alertidle01.wav
+MA3_FIEND_ALERTIDLE2 npc/human/maleadult03/fiend_alertidle02.wav
+
+MA3_FIEND_ALERTTOCOMBAT1 npc/human/maleadult03/fiend_alerttocombat01.wav
+MA3_FIEND_ALERTTOCOMBAT2 npc/human/maleadult03/fiend_alerttocombat02.wav
+MA3_FIEND_ALERTTOCOMBAT3 npc/human/maleadult03/fiend_alerttocombat03.wav
+
+MA3_FIEND_ALERTTONORMAL1 npc/human/maleadult03/fiend_alerttonormal01.wav
+MA3_FIEND_ALERTTONORMAL2 npc/human/maleadult03/fiend_alerttonormal02.wav
+MA3_FIEND_ALERTTONORMAL3 npc/human/maleadult03/fiend_alerttonormal03.wav
+
+MA3_FIEND_ATTACK1 npc/human/maleadult03/fiend_attack01.wav
+MA3_FIEND_ATTACK2 npc/human/maleadult03/fiend_attack02.wav
+MA3_FIEND_ATTACK3 npc/human/maleadult03/fiend_attack03.wav
+
+MA3_FIEND_AVOIDTHREAT1 npc/human/maleadult03/fiend_avoidthreat01.wav
+
+MA3_FIEND_COMBATTOLOST1 npc/human/maleadult03/fiend_combattolost01.wav
+MA3_FIEND_COMBATTOLOST2 npc/human/maleadult03/fiend_combattolost02.wav
+MA3_FIEND_COMBATTOLOST3 npc/human/maleadult03/fiend_combattolost03.wav
+
+MA3_FIEND_DEATHRESPONSE1 npc/human/maleadult03/fiend_deathresponse01.wav
+MA3_FIEND_DEATHRESPONSE2 npc/human/maleadult03/fiend_deathresponse02.wav
+MA3_FIEND_DEATHRESPONSE3 npc/human/maleadult03/fiend_deathresponse03.wav
+MA3_FIEND_DEATHRESPONSE4 npc/human/maleadult03/fiend_deathresponse04.wav
+MA3_FIEND_DEATHRESPONSE5 npc/human/maleadult03/fiend_deathresponse05.wav
+MA3_FIEND_DEATHRESPONSE6 npc/human/maleadult03/fiend_deathresponse06.wav
+
+MA3_FIEND_FIREEXPLOSIVE1 npc/human/maleadult03/fiend_fireexplosive01.wav
+MA3_FIEND_FIREEXPLOSIVE2 npc/human/maleadult03/fiend_fireexplosive02.wav
+
+MA3_FIEND_FLEE1 npc/human/maleadult03/fiend_flee01.wav
+MA3_FIEND_FLEE2 npc/human/maleadult03/fiend_flee02.wav
+MA3_FIEND_FLEE3 npc/human/maleadult03/fiend_flee03.wav
+
+MA3_FIEND_LOSTIDLE1 npc/human/maleadult03/fiend_lostidle01.wav
+MA3_FIEND_LOSTIDLE2 npc/human/maleadult03/fiend_lostidle02.wav
+MA3_FIEND_LOSTIDLE3 npc/human/maleadult03/fiend_lostidle03.wav
+
+MA3_FIEND_LOSTTOCOMBAT1 npc/human/maleadult03/fiend_losttocombat01.wav
+MA3_FIEND_LOSTTOCOMBAT2 npc/human/maleadult03/fiend_losttocombat02.wav
+MA3_FIEND_LOSTTOCOMBAT3 npc/human/maleadult03/fiend_losttocombat03.wav
+
+MA3_FIEND_LOSTTONORMAL1 npc/human/maleadult03/fiend_losttonormal01.wav
+MA3_FIEND_LOSTTONORMAL2 npc/human/maleadult03/fiend_losttonormal02.wav
+MA3_FIEND_LOSTTONORMAL3 npc/human/maleadult03/fiend_losttonormal03.wav
+
+MA3_FIEND_NORMALTOALERT1 npc/human/maleadult03/fiend_normaltoalert01.wav
+MA3_FIEND_NORMALTOALERT2 npc/human/maleadult03/fiend_normaltoalert01.wav
+MA3_FIEND_NORMALTOALERT3 npc/human/maleadult03/fiend_normaltoalert01.wav
+
+MA3_FIEND_POWERATTACK1 npc/human/maleadult03/powerattack01.wav
+MA3_FIEND_POWERATTACK2 npc/human/maleadult03/powerattack02.wav
+MA3_FIEND_POWERATTACK3 npc/human/maleadult03/powerattack03.wav
+MA3_FIEND_POWERATTACK4 npc/human/maleadult03/powerattack04.wav
